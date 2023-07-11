@@ -13,7 +13,7 @@ tags: events
 # About
 
 <p align="justify">
-AI Seminar Series is held every other Thursday from 10:00 a.m. – 11:00 a.m Eastern Standard Time by [AI Initiative ORNL](https://www.ornl.gov/ai-initiative) and are open to the public. The purpose of the Seminar Series is to bring together AI and ML researchers from different areas and promote collaborations.       
+AI Seminar Series is held every other Thursday from 10:00 a.m. – 11:00 a.m Eastern Standard Time by <a href="https://www.ornl.gov/ai-initiative"> AI Initiative ORNL</a> and open to the public. The purpose of the Seminar Series is to bring together AI and ML researchers from different areas and promote collaborations.       
 </p> 
 <a href="#top"> &#10558; Back to top</a>
 
