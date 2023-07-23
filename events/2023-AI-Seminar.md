@@ -4,7 +4,7 @@ title: AI Seminar Series<br/>
 description: Organized by AI Initiative, ORNL <br/>
              10–11 am ET <br/> 
              Every Other Thursday, August-October, 2023 <br/> 
-             Virtual or Bredesen Center (5100/140) <br/>
+             Virtual or Onsite <br/> #Bredesen Center (5100/140) <br/>
              
 permalink: /events/ai-initiative-seminar-2023/
 tags: events
@@ -13,21 +13,27 @@ tags: events
 # About
 
 <p align="justify">
-AI Seminar Series is held every other Thursday from 10–11 am ET by <a href="https://www.ornl.gov/ai-initiative"> AI Initiative ORNL</a> and open to the public. The purpose of the Seminar Series is to bring together AI and ML researchers from different scientific areas and promote interdisciplinary collaborations.       
+AI Seminar Series is held every other Thursday from 10–11 am ET by <a href="https://www.ornl.gov/ai-initiative"> AI Initiative ORNL</a>. The purpose of the Seminar Series is to bring together AI and ML researchers from different scientific areas and promote interdisciplinary collaborations.       
 </p> 
 <a href="#top"> &#10558; Back to top</a>
 
 # Next Presentation
 
-to be announced
+|         |        |
+| -------------- | -------------- |
+|<a href="https://f-t-s.github.io/"><img src="https://f-t-s.github.io/assets/img/prof_pic.jpg" width="250"/></a>|**Title** (TBA) <br>Room: 5200/214 (Emory)<br> Time: 10-11 am ET, Thursday, 08/03/2023 <br><br> <a href="https://f-t-s.github.io/"> Dr. Florian Schäfer </a> <br> Assistant Professor <br> School of Computational Science and Engineering <br> Georgia Institute of Technology|
 
 <a href="#top"> &#10558; Back to top</a>
 
 # Schedule 
 
 Please reach out if you are interested in presenting at a future event
+|    Date     | Location |   Name     |   Affilication   | Presentation Title|
+| -------------- | -------------- |-------------- |-------------- |-------------- |
+| 08/17| Bredesen Center (5100/140)| Samantha Cox | University of Rochester | TBA |
 
-to be announced
+
+
 <!-- 
 | Time            | Session         | Presenter                                                            |
 | --------------- | --------------- | -------------------------------------------------------------------- |
