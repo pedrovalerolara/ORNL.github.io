@@ -21,13 +21,20 @@ AI Seminar Series is held every other Thursday from 10–11 am ET by <a href="ht
 
 |         |        |
 | -------------- | -------------- |
-|<a href="https://f-t-s.github.io/"><img src="https://f-t-s.github.io/assets/img/prof_pic.jpg" width="250"/></a>|**Title** (TBA) <br>Room: 5200/214 (Emory)<br> Time: 10-11 am ET, Thursday, 08/03/2023 <br><br> <a href="https://f-t-s.github.io/"> Dr. Florian Schäfer </a> <br> Assistant Professor <br> School of Computational Science and Engineering <br> Georgia Institute of Technology|
+|<a href="https://f-t-s.github.io/"><img src="https://f-t-s.github.io/assets/img/prof_pic.jpg" width="250"/></a>|**Solvers, Models, Learners: Integrating inference and simulation**<br>Room: 5200/214 (Emory)<br> Time: 10-11 am ET, Thursday, 08/03/2023 <br>Microsoft Teams link: TBA<br><br> <a href="https://f-t-s.github.io/"> Dr. Florian Schäfer </a> <br> Assistant Professor <br> School of Computational Science and Engineering <br> Georgia Institute of Technology|
+
+**Abstract:** 
+The convergence of scientific computing with statistics and machine learning is an exciting development in scientific computing. In this talk, I will present three lines of work that blur the line between statistical inference and numerical computation. The first part of the talk presents state-of-the-art algorithms for solving elliptic PDEs and learning their solution operators by interpreting them as Gaussian processes and exploiting their conditional independence properties. The second part of the talk presents multi-agent approaches for the high-accuracy training of physics-informed neural networks. The third part of the talk discusses how to mitigate the formation of shock singularities in the barotropic Euler equations using an inviscid information-geometric regularization.
+
+**Bio:** 
+Florian Schäfer is an assistant professor in the School of Computational Science and Engineering at Georgia Tech. Prior to joining Georgia Tech, he received his PhD in applied and computational mathematics at Caltech, working with Houman Owhadi. Before that, he received Bachelor’s and Master’s degrees in Mathematics at the University of Bonn. His research interests lie at the interface of numerical computation, statistical inference, and competitive games.
 
 <a href="#top"> &#10558; Back to top</a>
 
 # Schedule 
 
 Please reach out if you are interested in presenting at a future event
+
 |    Date     | Location |   Name     |   Affilication   | Presentation Title|
 | -------------- | -------------- |-------------- |-------------- |-------------- |
 | 08/17| Bredesen Center (5100/140)| Samantha Cox | University of Rochester | TBA |
