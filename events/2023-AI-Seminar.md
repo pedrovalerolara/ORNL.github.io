@@ -1,7 +1,7 @@
 ---
 layout: default
-title: AI Seminar Series<br/> 
-description: Organized by AI Initiative, ORNL <br/>
+title: ORNL's AI Seminar Series <br/> 
+description: Organized by <a href="https://www.ornl.gov/ai-initiative"> AI Initiative </a> <br/>
              10–11 am ET <br/> 
              Every Other Thursday, August-October, 2023 <br/> 
              Virtual or Onsite <br/> #Bredesen Center (5100/140) <br/>
@@ -13,7 +13,9 @@ tags: events
 # About
 
 <p align="justify">
-AI Seminar Series is held every other Thursday from 10–11 am ET by <a href="https://www.ornl.gov/ai-initiative"> AI Initiative ORNL</a>. The purpose of the Seminar Series is to bring together AI and ML researchers from different scientific areas and promote interdisciplinary collaborations.       
+The ORNL AI Seminar Series serves as a dynamic platform for professionals from diverse scientific, engineering, and national security backgrounds spanning ORNL, universities, and industry. Our main objective is to encourage collaboration with the ultimate goal of driving transformative advancements in safe, trustworthy, and energy-efficient AI research and its real-world applications.
+
+The seminar will be held every other Thursday from 10–11 am ET. Please reach out to the organizers if you would like to give a talk.
 </p> 
 <a href="#top"> &#10558; Back to top</a>
 
