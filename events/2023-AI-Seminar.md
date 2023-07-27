@@ -13,7 +13,7 @@ tags: events
 # About
 
 <p align="justify">
-The ORNL AI Seminar Series, organized by the <a href="https://www.ornl.gov/ai-initiative"> AI Initiative </a>,  serves as a platform for professionals from diverse scientific, engineering, and national security backgrounds spanning ORNL, universities, and industry. Our main objective is to encourage collaboration with the ultimate goal of driving transformative advancements in safe, trustworthy, and energy-efficient AI research and its real-world applications.
+The ORNL AI Seminar Series, organized by the <a href="https://www.ornl.gov/ai-initiative"> AI Initiative</a>,  serves as a platform for professionals from diverse scientific, engineering, and national security backgrounds spanning ORNL, universities, and industry. Our main objective is to encourage collaboration with the ultimate goal of driving transformative advancements in safe, trustworthy, and energy-efficient AI research and its real-world applications.
 
 The seminar will be held every other Thursday from 10–11 am ET. Please reach out to the organizers if you would like to give a talk.
 </p> 
