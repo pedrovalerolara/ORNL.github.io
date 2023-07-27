@@ -13,7 +13,7 @@ tags: events
 # About
 
 <p align="justify">
-The ORNL AI Seminar Series, organized by <a href="https://www.ornl.gov/ai-initiative"> AI Initiative </a>,  serves as a platform for professionals from diverse scientific, engineering, and national security backgrounds spanning ORNL, universities, and industry. Our main objective is to encourage collaboration with the ultimate goal of driving transformative advancements in safe, trustworthy, and energy-efficient AI research and its real-world applications.
+The ORNL AI Seminar Series, organized by the <a href="https://www.ornl.gov/ai-initiative"> AI Initiative </a>,  serves as a platform for professionals from diverse scientific, engineering, and national security backgrounds spanning ORNL, universities, and industry. Our main objective is to encourage collaboration with the ultimate goal of driving transformative advancements in safe, trustworthy, and energy-efficient AI research and its real-world applications.
 
 The seminar will be held every other Thursday from 10–11 am ET. Please reach out to the organizers if you would like to give a talk.
 </p> 
@@ -37,30 +37,14 @@ Florian Schäfer is an assistant professor in the School of Computational Scienc
 
 Please reach out if you are interested in presenting at a future event
 
-|    Date     | Location |   Name     |   Affilication   | Presentation Title|
-| -------------- | -------------- |-------------- |-------------- |-------------- |
-| 08/17| Bredesen Center (5100/140)| Samantha Cox | University of Rochester | TBA |
+|      Date      |      Location  |     Name      |  Affilication |   Talk Title  | Recorded Talk |
+| -------------- | -------------- |-------------- |-------------- |-------------- |-------------- |
+| 08/03| Emory (5200/214)| Florian Schäfer | Georgia Tech | Solvers, Models, Learners: Integrating inference and simulation|TBA|
+| 08/17| Bredesen Center (5100/140)| Samantha Cox | University of Rochester | TBA |TBA|
 
-
-
-<!-- 
-| Time            | Session         | Presenter                                                            |
-| --------------- | --------------- | -------------------------------------------------------------------- |
-| **Opening**     |                 |                                                                      |
-| 8:00am-8:05am   | Welcome         | William F Godoy, Pedro Valero-Lara, *Oak Ridge National Laboratory*  |
-|                 |                 |                                                                      |
-| --------------- | --------------- | -------------------------------------------------------------------- |
-| 8:05-8:35am     | Invited Speaker | Al Geist, *Oak Ridge National Laboratory*                            |
- -->
 
 <a href="#top"> &#10558; Back to top</a>
 
-
-# Latest Recorded Talks
-
-to be updated
-
-<a href="#top"> &#10558; Back to top</a>
 
 # Organization
 
