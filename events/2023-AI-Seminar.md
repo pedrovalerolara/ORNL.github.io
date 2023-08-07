@@ -23,13 +23,14 @@ The seminar will be held every other Thursday from 10–11 am ET. Please reach o
 
 |         |        |
 | -------------- | -------------- |
-|<a href="https://f-t-s.github.io/"><img src="https://f-t-s.github.io/assets/img/prof_pic.jpg" width="250"/></a>|**Solvers, Models, Learners: Integrating inference and simulation**<br>Room: 5200/214 (Emory)<br> Time: 10-11 am ET, Thursday, 08/03/2023 <br>Microsoft Teams link: TBA<br><br> <a href="https://f-t-s.github.io/"> Dr. Florian Schäfer </a> <br> Assistant Professor <br> School of Computational Science and Engineering <br> Georgia Institute of Technology|
+|<a href="https://samcox822.github.io/"><img src="https://samcox822.github.io/assets/images/bio-photo.jpg" width="250"/></a>|**AI's Expanding Role: Transforming Scientific Automation with LLM-Powered Agents**<br>Room: Bredesen Center (5100/140)<br> Time: 10-11 am ET, Thursday, 08/17/2023 <br>Microsoft Teams link: TBA<br><br> <a href="https://samcox822.github.io/"> Samantha Cox </a> <br> PhD student in Chemical Engineering at University of Rochester, working in the <a href="https://thewhitelab.org/">Whitelab</a>|
 
 **Abstract:** 
-The convergence of scientific computing with statistics and machine learning is an exciting development in scientific computing. In this talk, I will present three lines of work that blur the line between statistical inference and numerical computation. The first part of the talk presents state-of-the-art algorithms for solving elliptic PDEs and learning their solution operators by interpreting them as Gaussian processes and exploiting their conditional independence properties. The second part of the talk presents multi-agent approaches for the high-accuracy training of physics-informed neural networks. The third part of the talk discusses how to mitigate the formation of shock singularities in the barotropic Euler equations using an inviscid information-geometric regularization.
+Large language models (LLMs) have demonstrated their capability to automate complex tasks effectively across various domains. Yet, LLMs face inherent limitations: a knowledge cutoff leading to outdated information, a lack of deep contextual understanding, and challenges with advanced problem-solving. These issues are especially critical in scientific research where up-to-date information, thorough understanding, and complex problem-solving are essential. This presentation examines how agent-based methods address these challenges in chemistry and explores their potential in automating other areas of scientific research.
 
 **Bio:** 
-Florian Schäfer is an assistant professor in the School of Computational Science and Engineering at Georgia Tech. Prior to joining Georgia Tech, he received his PhD in applied and computational mathematics at Caltech, working with Houman Owhadi. Before that, he received Bachelor’s and Master’s degrees in Mathematics at the University of Bonn. His research interests lie at the interface of numerical computation, statistical inference, and competitive games.
+Samantha Cox is a 2nd year PhD student at the University of Rochester studying chemical engineering. Under the advisement of Dr. Andrew White, her research focuses on developing computational tools for addressing chemistry and chemical engineering problems. She completed her BS in Chemistry from Lee University in 2021 and has recently joined technical
+staff at an AI + Bio institute. Samantha's work encompasses symmetric molecular dynamics and the integration of AI and large language models with chemistry.
 
 <a href="#top"> &#10558; Back to top</a>
 
@@ -37,11 +38,11 @@ Florian Schäfer is an assistant professor in the School of Computational Scienc
 
 Please reach out if you are interested in presenting at a future event
 
-|      Date      |      Location  |     Name      |  Affilication |   Talk Title  | Recorded Talk |
-| -------------- | -------------- |-------------- |-------------- |-------------- |-------------- |
-| 08/03| Emory (5200/214)| Florian Schäfer | Georgia Tech | Solvers, Models, Learners: Integrating inference and simulation|TBA|
-| 08/17| Bredesen Center (5100/140)| Samantha Cox | University of Rochester | TBA |TBA|
-
+|      Date      |      Location  |     Name      |  Affilication |   Talk   |
+| -------------- | -------------- |-------------- |-------------- |-------------- |
+| 08/03| Emory (5200/214)| Florian Schäfer | Georgia Tech | [Solvers, Models, Learners: Integrating inference and simulation](https://ornl-my.sharepoint.com/:v:/g/personal/tj9_ornl_gov/EcqgjB55LZ5JonR61U7bnzgBJQWiAoyqjEUQBpXrop_KMw)|
+| 08/17| Bredesen Center (5100/140)| Samantha Cox | University of Rochester | AI's Expanding Role: Transforming Scientific Automation with LLM-Powered Agents |
+| 08/31| Teams| Adam Gleave| FAR AI | Automated Testing for Machine Learning Systems|
 
 <a href="#top"> &#10558; Back to top</a>
 
