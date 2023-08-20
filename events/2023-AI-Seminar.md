@@ -23,14 +23,13 @@ The seminar will be held every other Thursday from 10–11 am ET. Please reach o
 
 |         |        |
 | -------------- | -------------- |
-|<a href="https://samcox822.github.io/"><img src="https://samcox822.github.io/assets/images/bio-photo.jpg" width="250"/></a>|**AI's Expanding Role: Transforming Scientific Automation with LLM-Powered Agents**<br>Room: Bredesen Center (5100/140)<br> Time: 10-11 am ET, Thursday, 08/17/2023 <br>Microsoft Teams link: TBA<br><br> <a href="https://samcox822.github.io/"> Samantha Cox </a> <br> PhD student in Chemical Engineering at University of Rochester, working in the <a href="https://thewhitelab.org/">Whitelab</a>|
+|<a href="https://www.gleave.me/"><img src="https://d33wubrfki0l68.cloudfront.net/479d92d2957ca26d59818844df0fc5cd0db78c1f/f9a96/authors/adamgleave/avatar_hu33cc56b38b00771f434c01f46ef075ca_278788_540x540_fill_q75_lanczos_center.jpg" width="250"/></a>|**Automated Testing for Machine Learning Systems**<br>Room: Virtual<br> Time: 10-11 am ET, Thursday, 08/31/2023 <br>Microsoft Teams link: TBA<br><br> <a href="https://www.gleave.me/"> Adam Gleave </a> <br> CEO at <a href="https://far.ai/">FAR AI</a>|
 
 **Abstract:** 
-Large language models (LLMs) have demonstrated their capability to automate complex tasks effectively across various domains. Yet, LLMs face inherent limitations: a knowledge cutoff leading to outdated information, a lack of deep contextual understanding, and challenges with advanced problem-solving. These issues are especially critical in scientific research where up-to-date information, thorough understanding, and complex problem-solving are essential. This presentation examines how agent-based methods address these challenges in chemistry and explores their potential in automating other areas of scientific research.
+Machine learning (ML) systems are increasingly being deployed in or considered for safety and/or security-critical settings. Unfortunately, most extant ML systems contain serious vulnerabilities that may cause them to fail in the presence of an adversary or simply novel, off-distribution inputs. Currently, identifying these vulnerabilities typically requires careful testing by skilled practitioners, a labor-intensive and expensive process. In this presentation, we describe several methods for automated testing: using ML systems to test other ML systems. In particular, we will describe an approach using RL to identify [issues with agents acting in simulated robotics](https://arxiv.org/abs/1905.10615), and a recent finding showing [serious vulnerabilities in supposedly "superhuman" Go AI systems](https://goattack.far.ai/).
 
 **Bio:** 
-Samantha Cox is a 2nd year PhD student at the University of Rochester studying chemical engineering. Under the advisement of Dr. Andrew White, her research focuses on developing computational tools for addressing chemistry and chemical engineering problems. She completed her BS in Chemistry from Lee University in 2021 and has recently joined technical
-staff at an AI + Bio institute. Samantha's work encompasses symmetric molecular dynamics and the integration of AI and large language models with chemistry.
+Adam Gleave is the CEO and co-founder of FAR AI, a trustworthy AI research non-profit working to incubate and accelerate new safety research agendas. Adam’s research focuses on adversarial robustness and value learning for open-ended reinforcement learning agents and language models. Adam received his PhD from UC Berkeley under the supervision of Stuart Russell and funded by an Open Philanthropy Fellowship. Adam has previously worked at DeepMind and several quantitative trading firms.
 
 <a href="#top"> &#10558; Back to top</a>
 
@@ -41,7 +40,7 @@ Please reach out if you are interested in presenting at a future event
 |      Date      |      Location  |     Name      |  Affilication |   Talk   |
 | -------------- | -------------- |-------------- |-------------- |-------------- |
 | 08/03| Emory (5200/214)| Florian Schäfer | Georgia Tech | [Solvers, Models, Learners: Integrating inference and simulation](https://ornl-my.sharepoint.com/:v:/g/personal/tj9_ornl_gov/EcqgjB55LZ5JonR61U7bnzgBJQWiAoyqjEUQBpXrop_KMw)|
-| 08/17| Bredesen Center (5100/140)| Samantha Cox | University of Rochester | AI's Expanding Role: Transforming Scientific Automation with LLM-Powered Agents |
+| 08/17| Bredesen Center (5100/140)| Samantha Cox | University of Rochester | [AI's Expanding Role: Transforming Scientific Automation with LLM-Powered Agents](https://ornl-my.sharepoint.com/:v:/g/personal/tj9_ornl_gov/ET-ASOFb2BRErdJb5AOjWYoBhfCIIri-FP8lXDvtJzLy6A) |
 | 08/31| Teams| Adam Gleave| FAR AI | Automated Testing for Machine Learning Systems|
 
 <a href="#top"> &#10558; Back to top</a>
