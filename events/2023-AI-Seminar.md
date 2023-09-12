@@ -43,6 +43,10 @@ Please reach out if you are interested in presenting at a future event
 | 08/17| Bredesen Center (5100/140)| Samantha Cox | University of Rochester | [AI's Expanding Role: Transforming Scientific Automation with LLM-Powered Agents](https://ornl-my.sharepoint.com/:v:/g/personal/tj9_ornl_gov/ET-ASOFb2BRErdJb5AOjWYoBhfCIIri-FP8lXDvtJzLy6A) |
 | 08/31| Teams| Adam Gleave| FAR AI | [Automated Testing for Machine Learning Systems](https://ornl-my.sharepoint.com/:v:/g/personal/tj9_ornl_gov/ER7a32f7de5IsOB2KetusHIBp7L4aGdtcBvd55ey8Kt2QQ)|
 | 09/14 |Teams| James Chapman|Boston University|Understanding Atomic-scale Materials Behavior Using Graph-based Machine Learning|
+| 09/28 |Teams| Michael Grosskopf|LANL|TBA|
+| 10/12 |Teams| Elizabeth Qian|Georgia Tech|TBA|
+| 10/19 |Onsite (TBA)| Anand Rangarajan and Sanjay Ranka|University of Florida|TBA|
+| 10/26 |Teams|Bradley Malin|Vanderbilt University|TBA|
 
 <a href="#top"> &#10558; Back to top</a>
 
