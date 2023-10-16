@@ -22,7 +22,7 @@ The seminar will be held every other Thursday from 10–11 am ET. Please reach o
 # Next Presentation
 
 **Data Science for Scientific Data Compression and Transportation Applications**
-<br>Room: Bredesen Center (5100/140)<br> Time: 10-11 am ET, Thursday, 10/19/2023 <br>Microsoft Teams link: TBA<br>
+<br>Room: Weinberg Auditorium (4500N/I-126)<br> Time: 10-11 am ET, Thursday, 10/19/2023 <br>Microsoft Teams link: TBA<br>
  <a href="https://www.cise.ufl.edu/~anand/">Anand Rangarajan</a> and <a href="https://sanjayranka.com/"> Sanjay Ranka </a><br>
 University of Florida
 
@@ -65,7 +65,7 @@ Please reach out if you are interested in presenting at a future event
 | 09/14 |Teams| James Chapman|Boston University|[Understanding Atomic-scale Materials Behavior Using Graph-based Machine Learning](https://ornl-my.sharepoint.com/:v:/g/personal/tj9_ornl_gov/Eb12f9I8ucdPjOlLSGV2xlcBSJ-BO32U5JNIL7WgsQfvDg)|
 | 09/28 |Teams| Michael Grosskopf|LANL|[Data efficient optimization with Gaussian process egression for fusion target design](https://ornl-my.sharepoint.com/:v:/g/personal/tj9_ornl_gov/EWyZqYZTjttAhR7QhC2dSE8BqeFyPYBcLftGoVZptHNdfQ)|
 | 10/12 |Teams| Elizabeth Qian|Georgia Tech|[Reduced operator inference for nonlinear PDEs](https://ornl-my.sharepoint.com/:v:/g/personal/tj9_ornl_gov/EYpWCAdY0RdClz0AWNz0B7cBkctBc18SbWFrk83g00IA5A)|
-| 10/19 |Bredesen Center (5100/140)| Anand Rangarajan and Sanjay Ranka|University of Florida|Data Science for Scientific Data Compression and Transportation Applications|
+| 10/19 |Weinberg Auditorium (4500N/I-126)| Anand Rangarajan and Sanjay Ranka|University of Florida|Data Science for Scientific Data Compression and Transportation Applications|
 | 10/26 |Teams|Bradley Malin|Vanderbilt University|TBA|
 
 <a href="#top"> &#10558; Back to top</a>
