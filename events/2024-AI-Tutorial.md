@@ -39,7 +39,7 @@ Therefore, please request an entry pass only if you need to attend virtually.
 # Next Tutorial
 
 **HydraGNN: a scalable graph neural network architecture for atomistic materials modeling applications**
-<br>Time: 03/29/2023
+<br>Time: 03/28/2024
 <br>Microsoft Teams link: TBA
 <br>[Massimiliano Lupo Pasini](https://www.ornl.gov/staff-profile/massimiliano-lupo-pasini)
 <br>Oak Ridge National Laboratory
