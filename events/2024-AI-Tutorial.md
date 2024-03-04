@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ORNL's Secure, Trustworthy, and Energy-Efficient AI for Science Tutorial Series <br/> 
-description: Organized by  AI Initiative <br/>
+description: Organized by [ORNL’s AI Initiative](https://www.ornl.gov/ai-initiative) <br/>
              Vitual<br/>
 permalink: /events/ai-tutorials-series-2024/
 tags: events
@@ -11,7 +11,6 @@ tags: events
 
 # ORNL AI Initiative: Secure, Trustworthy, and Energy-Efficient AI for Science Tutorial Series
 
-<p align="justify">
 ORNL AI Initiative’s tutorial series is designed to equip the scientific community with cutting-edge methodologies, technologies developed within ORNL and specifically through the AI initiative.
 
 Each half-day tutorial is structured to cover a broad spectrum of **AI for science** applications, from graph neural networks in materials modeling to machine learning in hyperspectral image reconstruction.
@@ -35,7 +34,6 @@ Include a short bio and explain why you wish to attend the tutorial series.
 Note that the tutorials will be recorded and made available online after 2-3 weeks.
 Therefore, please request an entry pass only if you need to attend virtually.
 
-</p> 
 <a href="#top"> &#10558; Back to top</a>
 
 # Next Tutorial
@@ -95,9 +93,9 @@ td, th {
 }
 </style>
 
-|         |
-| ------- |
-| [![PB](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2023-03/BalaprakashProfile_0.jpg?h=17644140&itok=AYUSlKCG)](https://www.ornl.gov/staff-profile/prasanna-balaprakash)|
-| Prasanna Balaprakash<br> Director of AI Programs <br> Distinguished R&D Staff Scientist<br> Computing and Computational Sciences Directorate, ORNL |
+|                |                |                |
+| -------------- | -------------- | -------------- |
+| [![Jong Youl Choi](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2021-02/jychoi2_0.png?h=273942d0&itok=wF9lLEZU)](https://www.ornl.gov/staff-profile/jong-youl-choi) | [![Chen Zhang](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2020-10/profile_0.png?h=c49a1206&itok=ntQg6NeU)](https://www.ornl.gov/staff-profile/chen-zhang) | [![Prasanna Balaprakash](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2023-03/BalaprakashProfile_0.jpg?h=17644140&itok=AYUSlKCG)](https://www.ornl.gov/staff-profile/prasanna-balaprakash) |
+| Jong Youl Choi <br> HPC Data Research Scientist <br> Computer Science and Mathematics Division <br> ONRL | Chen Zhang <br> Computational Scientist <br> Computer Science and Mathematics Division <br> ONRL | Prasanna Balaprakash<br> Director of AI Programs <br> Distinguished R&D Staff Scientist<br> Computing and Computational Sciences Directorate, ORNL |
 
 <a href="#top"> &#10558; Back to top</a>
