@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ORNL's Secure, Trustworthy, and Energy-Efficient AI for Science Tutorial Series <br/> 
-description: Organized by [ORNL’s AI Initiative](https://www.ornl.gov/ai-initiative) <br/>
+description: Organized by ORNL’s AI Initiative <br/>
              Vitual<br/>
 permalink: /events/ai-tutorials-series-2024/
 tags: events
@@ -51,7 +51,8 @@ Therefore, please request an entry pass only if you need to attend virtually.
 
 
 **Abstract:** 
-TBD
+During the tutorial, we will show how to use HydraGNN (https://lnkd.in/env_wsxM), our scalable implementation of multi-task learning graph neural networks developed at Oak Ridge National Laboratory #ORNL as part of the ORNL Artificial Intelligence Initiative.
+After discussing scientific motivations behind the need to develop scalable GNN training to support scientific applications of interest to the US Department of Energy (DOE), we will cover a hands-on session with examples of increasing difficulty. In particular, we will show how HydraGNN can be used to scale the training of GNN models on millions of atomic structures on OLCF-Summit, NERSC-Perlmutter, and OLCF-Frontier. To this day, we achieved linear scaling on these DOE leadership class supercomputing facilities using up to 1,024 GPUs.
 
 **Bio:**
 
@@ -70,7 +71,7 @@ Please reach out if you are interested in presenting at a future event
 | Date | Title | ORNL Tutorial Lead |
 | ---- | ----- | ------------------ |
 | 03/29/2024 | HydraGNN: a scalable graph neural network architecture for atomistic materials modeling applications | [Massimiliano Lupo Pasini](https://www.ornl.gov/staff-profile/massimiliano-lupo-pasini) |
-| 04/26/2024 | ExpM+NF: Are Normalizing Flows the Key to Unlocking the Exponential Mechanism? | [Robert A Bridges](https://www.ornl.gov/staff-profile/robert-bridges) |
+| 04/26/2024 | ExpM+NF: Privacy preservation with normalizing flows | [Robert A Bridges](https://www.ornl.gov/staff-profile/robert-bridges) |
 | 05/24/2024 | Inverse molecular design workflow | [Pilsun Yoo](https://www.ornl.gov/staff-profile/pilsun-yoo) |
 | 06/28/2024 | PI3NN: Uncertainty Quantification for ML models | [Dan Lu](https://www.ornl.gov/staff-profile/dan-lu) |
 | 07/26/2024 | VAE-NCDE: a generative time series model for probabilistic multivariate time series forecasting | [William L Gurecky](https://www.ornl.gov/staff-profile/william-l-gurecky) |
