@@ -2,7 +2,7 @@
 layout: default
 title: ORNL's Secure, Trustworthy, and Energy-Efficient AI for Science Tutorial Series <br/> 
 description: Organized by ORNL’s AI Initiative <br/>
-             Vitual<br/>
+             Virtual<br/>
 permalink: /events/ai-tutorials-series-2024/
 tags: events
 ---
@@ -77,7 +77,7 @@ Please reach out if you are interested in presenting at a future event
 | 07/26/2024 | VAE-NCDE: a generative time series model for probabilistic multivariate time series forecasting | [William L Gurecky](https://www.ornl.gov/staff-profile/william-l-gurecky) |
 | 08/23/2024 | ML-HSIR: Machine Learning based Hyperspectral Image Reconstruction the edge | [Narasinga Rao Miniskar](https://www.ornl.gov/staff-profile/narasinga-r-miniskar) |
 | 09/27/2024 | Massively parallel training for large transformers | [Xiao Wang](https://www.ornl.gov/staff-profile/xiao-wang) |
-| 10/04/2024 | Privacy-preserving algorithms for heterogeneous data and machine learning models | [Olivera Kotevska](https://www.ornl.gov/staff-profile/olivera-kotevska) |
+| 10/04/2024 | PPSD: Privacy preservation for streaming data | [Olivera Kotevska](https://www.ornl.gov/staff-profile/olivera-kotevska) |
 | 11/15/2024 | Intro to causal and explainable models in materials science | [Ayana Ghosh](https://www.ornl.gov/staff-profile/ayana-ghosh) |
 
 
