@@ -22,7 +22,7 @@ Please reach out to the organizers if you would like to recommend a spearker or 
 
 # Next Presentation
 
-**TITLE (TBA)**
+**Scientific AI surrogate models for simulation and optimization**
 
 <br>Room: Weinberg Auditorium (4500N/I-126)
 <br> Time: 10-11 am ET, Thursday, 03/20/2024
@@ -30,10 +30,20 @@ Please reach out to the organizers if you would like to recommend a spearker or 
 <br>[Dr. Raphaël Pestourie](https://cse.gatech.edu/people/raphael-pestourie)
 
 **Abstract**
-TBA
+
+In this talk, I will showcase how surrogate models accelerate the evaluation of properties of PDE solutions.
+I will present a precise definition of the computational benefit of surrogate models and example surrogate models.
+We will then show how surrogate models can be combined to solve a challenging multiscale problem in optics.
+We will show that, through a synergistic combination of data-driven methods and direct numerical simulations, surrogate-based models present a data-efficient and physics-enhanced approach to simulating and optimizing complex systems.
+This approach has the benefit of being interpretable.
+I will also share ways forward and opportunities where I am actively seeking collaborations.
 
 **Bio**
-TBA
+
+Raphaël Pestourie is an assistant professor at Georgia Tech in the School of Computational Science and Engineering.
+He earned his Ph.D. in Applied Mathematics Harvard University in 2020.
+Prior to Georgia Tech, he was a postdoctoral associate at MIT Mathematics, where he worked closely with the MIT-IBM Watson AI Lab.
+Raphaël’s research synergistically combines data-driven surrogate models and direct numerical simulations to accelerate simulation and optimization of complex systems for AI-driven discoveries.
 
 ---
 **Accelerating Astronomical Discovery: Synergies Between Generative AI, Large Language Models, and Data-Driven Astronomy**

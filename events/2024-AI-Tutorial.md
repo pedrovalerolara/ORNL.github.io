@@ -50,11 +50,12 @@ Therefore, please request an entry pass only if you need to attend virtually.
 | Massimiliano Lupo Pasini<br> Staff Scientist<br>Computing and Computational Sciences Directorate, ORNL |
 
 
-**Abstract:** 
+**Abstract**
+
 During the tutorial, we will show how to use HydraGNN (https://github.com/ORNL/HydraGNN), our scalable implementation of multi-task learning graph neural networks developed at Oak Ridge National Laboratory #ORNL as part of the ORNL Artificial Intelligence Initiative.
 After discussing scientific motivations behind the need to develop scalable GNN training to support scientific applications of interest to the US Department of Energy (DOE), we will cover a hands-on session with examples of increasing difficulty. In particular, we will show how HydraGNN can be used to scale the training of GNN models on millions of atomic structures on OLCF-Summit, NERSC-Perlmutter, and OLCF-Frontier. To this day, we achieved linear scaling on these DOE leadership class supercomputing facilities using up to 1,024 GPUs.
 
-**Bio:**
+**Bio**
 
 Massimiliano (Max) Lupo Pasini obtained his Bachelor of Science and Master of Science in Mathematical Engineering at the Politecnico di Milano in Milan, Italy. The focus of his undergraduate and master studies was statistics and discretization techniques and reduction order models for partial differential equations. He obtained his PhD in Applied Mathematics at Emory University in Atlanta (GA) in May 2018. The main topic of his doctorate work was the development of efficient and resilient linear solvers for upcoming computing architectures moving towards exascale. Upon graduation, Max joined the Oak Ridge National Laboratory (ORNL) as a Postdoctoral Researcher Associate in the Scientific Computing Group at the National Center for Computational Sciences (NCCS).
 
