@@ -11,7 +11,7 @@ tags: events
 
 # ORNL AI Initiative: Secure, Trustworthy, and Energy-Efficient AI for Science Tutorial Series
 
-ORNL AI Initiative’s tutorial series is designed to equip the scientific community with cutting-edge methodologies, technologies developed within ORNL and specifically through the AI initiative.
+ORNL [AI Initiative](https://www.ornl.gov/ai-initiative)’s tutorial series is designed to equip the scientific community with cutting-edge methodologies, technologies developed within ORNL and specifically through the AI initiative.
 
 Each half-day tutorial is structured to cover a broad spectrum of **AI for science** applications, from graph neural networks in materials modeling to machine learning in hyperspectral image reconstruction.
 
