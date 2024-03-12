@@ -48,9 +48,9 @@ Raphaël’s research synergistically combines data-driven surrogate models and 
 ---
 **Accelerating Astronomical Discovery: Synergies Between Generative AI, Large Language Models, and Data-Driven Astronomy**
 
-<br>Room: Weinberg Auditorium (4500N/I-126)
-<br>Time: 10-11 am ET, Thursday, 03/25/2024
-<br>Microsoft Teams link: TBA
+<br>Room: Building 5100, Room 140
+<br>Time: 10-11 a.m. ET, Thursday, 03/25/2024
+<br>Microsoft Teams link: [link](https://teams.microsoft.com/l/meetup-join/19:meeting_ZTg3YThjYmItMTU1Ny00Mjg5LWI1OTEtNDMyNDI3ZmZjMWU2@thread.v2/0?context=%7B%22Tid%22:%22db3dbd43-4c4b-4544-9f8a-0553f9f5f25e%22,%22Oid%22:%221cdddd48-49e9-4bc8-9c02-59bb92141c3b%22%7D)
 <br>[Dr. Yuan-Sen Ting](https://www.mso.anu.edu.au/~yting/)
 
 **Abstract**
@@ -79,8 +79,8 @@ Please reach out if you are interested in presenting at a future event
 
 |      Date      |    Location    |        Name            |          Affilication           |      Talk      |
 | :------------: | :------------: | :--------------------: | :-----------------------------: | :------------: |
-| 03-20-2024 | TBA | Dr. Raphaël Pestourie  | Georgia Institute of Technology |  TBA |
-| 03-25-2024 | TBA | Dr. Yuan-Sen Ting | The Australian National University | Accelerating Astronomical Discovery: Synergies Between Generative AI, Large Language Models, and Data-Driven Astronomy |
+| 03-20-2024 | Building 5700, Room F234 | Dr. Raphaël Pestourie  | Georgia Institute of Technology | Scientific AI surrogate models for simulation and optimization |
+| 03-25-2024 | Building 5100, Room 140 | Dr. Yuan-Sen Ting | The Australian National University | Accelerating Astronomical Discovery: Synergies Between Generative AI, Large Language Models, and Data-Driven Astronomy |
 | 04-11-2024 | Teams | Dr. Robert Kirby <br> Dr. Mingjie Liu | Nvidia | TBA |
 | 04-25-2024 | TBA   | Dr. Sutanay Choudhury | Pacific Northwest National Laboratory (PNNL) | TBA |
 
