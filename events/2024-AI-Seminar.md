@@ -24,9 +24,9 @@ Please reach out to the organizers if you would like to recommend a spearker or 
 
 **Scientific AI surrogate models for simulation and optimization**
 
-<br>Room: Weinberg Auditorium (4500N/I-126)
-<br> Time: 10-11 am ET, Thursday, 03/20/2024
-<br>Microsoft Teams link: TBA
+<br>Room: Building 5700, Room F234
+<br> Time: 11:00 a.m. - 12 p.m. ET, Thursday, 03/21/2024
+<br>Microsoft Teams link: [link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODBkNjE1MzQtNGY1My00NTg0LWIwNjAtZWFjOGQ1YjY1NDI4%40thread.v2/0?context=%7b%22Tid%22%3a%22db3dbd43-4c4b-4544-9f8a-0553f9f5f25e%22%2c%22Oid%22%3a%22fff99897-1c9b-46bd-835e-c1330d3979f6%22%7d)
 <br>[Dr. Raphaël Pestourie](https://cse.gatech.edu/people/raphael-pestourie)
 
 **Abstract**
