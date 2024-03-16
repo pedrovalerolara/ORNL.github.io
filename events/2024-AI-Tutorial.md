@@ -41,7 +41,6 @@ Therefore, please request an entry pass only if you need to attend virtually.
 **HydraGNN: a scalable graph neural network architecture for atomistic materials modeling applications**
 <br>Time: 03/28/2024, 2:00 PM - 4:00 PM (ET)
 <br> Building 5700, Room L204
-<br> Microsoft Teams link: [link](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_MTExM2JkZmMtOGM1YS00ZDFhLTgwOWYtMDgwMDE1MWEzZGJm%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522db3dbd43-4c4b-4544-9f8a-0553f9f5f25e%2522%252c%2522Oid%2522%253a%252271bc5e67-c6ab-4cdf-b13c-4d4a272d643e%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=8bd252a1-2e0a-4af6-a1d9-3819eb004d2e&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)
 <br>[Massimiliano Lupo Pasini](https://www.ornl.gov/staff-profile/massimiliano-lupo-pasini)
 <br>Oak Ridge National Laboratory
 
