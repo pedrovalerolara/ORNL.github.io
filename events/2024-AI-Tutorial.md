@@ -38,9 +38,9 @@ Therefore, please request an entry pass only if you need to attend virtually.
 
 # Next Tutorial
 
-**HydraGNN: a scalable graph neural network architecture for atomistic materials modeling applications**
+**Material Property Prediction with Large Scale GNNs**
 <br>Time: 03/28/2024, 2:00 PM - 4:00 PM (ET)
-<br> Building 5700, Room L204
+<br> Virtual (Microsoft Teams)
 <br>[Massimiliano Lupo Pasini](https://www.ornl.gov/staff-profile/massimiliano-lupo-pasini)
 <br>Oak Ridge National Laboratory
 
@@ -71,7 +71,7 @@ Please reach out if you are interested in presenting at a future event
 
 | Date | Title | ORNL Tutorial Lead |
 | ---- | ----- | ------------------ |
-| 03/28/2024 | HydraGNN: a scalable graph neural network architecture for atomistic materials modeling applications | [Massimiliano Lupo Pasini](https://www.ornl.gov/staff-profile/massimiliano-lupo-pasini) |
+| 03/28/2024 | Material Property Prediction with Large Scale GNNs | [Massimiliano Lupo Pasini](https://www.ornl.gov/staff-profile/massimiliano-lupo-pasini) |
 | 04/26/2024 | ExpM+NF: Privacy preservation with normalizing flows | [Robert A Bridges](https://www.ornl.gov/staff-profile/robert-bridges) |
 | 05/24/2024 | Inverse molecular design workflow | [Pilsun Yoo](https://www.ornl.gov/staff-profile/pilsun-yoo) |
 | 06/28/2024 | PI3NN: Uncertainty Quantification for ML models | [Dan Lu](https://www.ornl.gov/staff-profile/dan-lu) |
