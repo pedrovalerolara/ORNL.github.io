@@ -22,6 +22,30 @@ Please reach out to the organizers if you would like to recommend a spearker or 
 
 # Next Presentation
 
+**ChipNeMo: Domain-Adapted LLMs for Chip Design**
+
+<br> Virtual (via Microsoft Teams)
+<br> Time: 10-11 a.m. ET, Thursday, 04/11/2024
+<br> [Robert Kirby](https://www.linkedin.com/in/areskay/), [Mingjie Liu](https://research.nvidia.com/person/mingjie-liu)
+
+**Abstract**
+
+[ChipNeMo](https://research.nvidia.com/publication/2023-10_chipnemo-domain-adapted-llms-chip-design) aims to explore the applications of large language models (LLMs) for industrial chip design.
+Instead of directly deploying off-the-shelf commercial or open-source LLMs, we instead adopt the following domain adaptation techniques: custom tokenizers, domain-adaptive continued pretraining, supervised fine-tuning (SFT) with domain-specific instructions, and domain-adapted retrieval models.
+We evaluate these methods on three selected LLM applications for chip design: an engineering assistant chatbot, EDA script generation, and bug summarization and analysis.
+Our results show that these domain adaptation techniques enable significant LLM performance improvements over general-purpose base models across the three evaluated applications, enabling up to 5x model size reduction with similar or better performance on a range of design tasks.
+Our findings also indicate that there’s still room for improvement between our current results and ideal outcomes.
+We believe that further investigation of domain-adapted LLM approaches will help close this gap in the future.
+
+**Bio**
+
+Robert Kirby is a Senior Research Scientist at NVIDIA working on the Applied Deep Learning Research team.
+He received his undergraduate degree in Computer Engineering at The University of Illinois Urbana-Champaign and has been working in various parts of the NVIDIA GPU research and design team for the past 13 years.
+His research focus has included both large scale language modelling as well as deep learning applications to various parts of the ASIC design flow.
+Recently he has been focused on studying and improving the process of applying state of the art LLMs to domain specific tasks.
+
+# Past Presentation
+
 **Scientific AI surrogate models for simulation and optimization**
 
 <br>Room: Building 5700, Room F234
@@ -79,8 +103,9 @@ Please reach out if you are interested in presenting at a future event
 | :------------: | :------------: | :--------------------: | :-----------------------------: | :------------: |
 | 03-20-2024 | Building 5700, Room F234 | Dr. Raphaël Pestourie  | Georgia Institute of Technology | Scientific AI surrogate models for simulation and optimization |
 | 03-25-2024 | Building 5100, Room 140 | Dr. Yuan-Sen Ting | The Australian National University | Accelerating Astronomical Discovery: Synergies Between Generative AI, Large Language Models, and Data-Driven Astronomy |
-| 04-11-2024 | Teams | Dr. Robert Kirby <br> Dr. Mingjie Liu | Nvidia | TBA |
+| 04-11-2024 | Teams | Mr. Robert Kirby <br> Dr. Mingjie Liu | Nvidia | ChipNeMo: Domain-Adapted LLMs for Chip Design |
 | 04-25-2024 | TBA   | Dr. Sutanay Choudhury | Pacific Northwest National Laboratory (PNNL) | TBA |
+| 06-06-2024 | Teams | Dr. Ishan Thakkar | University of Kentucky | TBA |
 
 <a href="#top"> &#10558; Back to top</a>
 
