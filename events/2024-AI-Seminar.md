@@ -44,6 +44,11 @@ He received his undergraduate degree in Computer Engineering at The University o
 His research focus has included both large scale language modelling as well as deep learning applications to various parts of the ASIC design flow.
 Recently he has been focused on studying and improving the process of applying state of the art LLMs to domain specific tasks.
 
+Mingjie Liu is currently a Research Scientist at NVIDIA, where he actively conducts research on Electronic Design Automation.
+He received his PhD degree in electrical and computer engineering from the The University of Texas at Austin in 2022.
+His prior research includes applied machine learning for design automation and design automation for analog and mixed-signal integrated circuits.
+He is currently working on applying Large Language Models for chip design automation tasks.
+
 # Past Presentation
 
 **Scientific AI surrogate models for simulation and optimization**
@@ -106,6 +111,7 @@ Please reach out if you are interested in presenting at a future event
 | 04-11-2024 | Teams | Mr. Robert Kirby <br> Dr. Mingjie Liu | Nvidia | ChipNeMo: Domain-Adapted LLMs for Chip Design |
 | 04-25-2024 | TBA   | Dr. Sutanay Choudhury | Pacific Northwest National Laboratory (PNNL) | TBA |
 | 06-06-2024 | Teams | Dr. Ishan Thakkar | University of Kentucky | TBA |
+| 06-20-2024 | Teams | Dr. Kutyniok | Ludwig Maximilian University of Munich | TBA |
 
 <a href="#top"> &#10558; Back to top</a>
 
