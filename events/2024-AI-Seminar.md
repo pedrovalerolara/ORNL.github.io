@@ -49,6 +49,34 @@ He received his PhD degree in electrical and computer engineering from the The U
 His prior research includes applied machine learning for design automation and design automation for analog and mixed-signal integrated circuits.
 He is currently working on applying Large Language Models for chip design automation tasks.
 
+# Upcoming Presentations
+
+**NIST’s Autonomous Research Laboratories for Materials Exploration and Discovery**
+
+<br> Room: TBA
+<br> Time: 10-11 a.m. ET, Monday, 05/09/2024
+<br> [Dr. A. Gilad Kusne](https://www.nist.gov/people/aaron-gilad-kusne)
+
+**Abstract**
+
+Autonomous research laboratories (also known as self-driving labs) accelerate the scientific process - letting scientists fail smarter, learn faster, and spend less resources in their studies.
+This is achieved by placing machine learning in control of automated lab equipment, i.e., putting machine learning in the driver’s seat.
+The user defines their goals and the machine learning then selects, performs, and analyzes experiments in a closed loop to home in on those goals.
+By integrating prior knowledge into the machine learning framework, even greater accelerations can be achieved.
+Knowledge sources include theory, computation, databases, and human intuition.
+In this talk I will discuss NIST’s diverse set of autonomous labs for materials exploration and discovery.
+I will also discuss how integrating external knowledge boosts their performance.
+
+**Bio**
+
+A. Gilad Kusne received his B.S., M.S., and Ph.D. degrees from Carnegie Mellon University.
+He is a Staff Scientist with the National Institute of Standards and Technology (NIST), Gaithersburg, Maryland, an adjunct professor with the University of Maryland, and a Fellow of the American Physical Society.
+His research is part of the White House’s Materials Genome Initiative at NIST, a project which aims to accelerate the discovery and optimization of advanced materials.
+He leads the machine learning team of an international, cross-disciplinary effort building autonomous research systems, with the goal of advancing solid state, soft, and biological materials.
+For these systems, machine learning performs experiment design, execution (in the lab and in silico), and analysis.
+For his work, he has been awarded the NIST Bronze Award (highest internal award).
+He is also the lead founder and organizer of the annual Machine Learning for Materials Research Bootcamp and Workshop (now on its 9thyear)—educating next generation and mid-career material scientists in machine learning.
+
 # Past Presentation
 
 **Scientific AI surrogate models for simulation and optimization**
@@ -110,6 +138,7 @@ Please reach out if you are interested in presenting at a future event
 | 03-25-2024 | Building 5100, Room 140 | Dr. Yuan-Sen Ting | The Australian National University | Accelerating Astronomical Discovery: Synergies Between Generative AI, Large Language Models, and Data-Driven Astronomy |
 | 04-11-2024 | Teams | Mr. Robert Kirby <br> Dr. Mingjie Liu | Nvidia | ChipNeMo: Domain-Adapted LLMs for Chip Design |
 | 04-25-2024 | TBA   | Dr. Sutanay Choudhury | Pacific Northwest National Laboratory (PNNL) | TBA |
+| 05-09-2024 | Hybrid | Dr. A. Gilad Kusne | NIST | NIST’s Autonomous Research Laboratories for Materials Exploration and Discovery |
 | 06-06-2024 | Teams | Dr. Ishan Thakkar | University of Kentucky | TBA |
 | 06-20-2024 | Teams | Dr. Kutyniok | Ludwig Maximilian University of Munich | TBA |
 
