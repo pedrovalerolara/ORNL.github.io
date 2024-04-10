@@ -76,7 +76,7 @@ In November 2019, Max became a computational scientist in the Scalable Algorithm
 
 Max’s research focuses on the development of surrogate and generative AI models for material sciences, scalable hyper parameter optimization techniques for deep learning (DL) models, and acceleration of computational methods for physics applications. He was the technical lead of the Surrogates Models for Material Properties product within the Artificial Intelligence for Science and Discovery (AISD) thrust of the ORNL Artificial Intelligence Initiative in the fiscal years FY21, FY22, and FY23. He is currently the interim technical lead of the AISD thrust for fiscal years FY24 and FY25.
 
-> [slides](2024-AI-Tutorial/HydraGNN_AI_Tutorial_Series_03282024.pdf)
+> [slides](https://www.dropbox.com/scl/fi/db5nw096d6y2s20mvrgu0/HydraGNN_AI_Tutorial_Series_03282024.pdf?rlkey=juiz1da3bnuld62jancqecdi5&dl=0)
 
 <a href="#top"> &#10558; Back to top</a>
 
