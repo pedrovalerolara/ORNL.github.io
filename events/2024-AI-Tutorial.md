@@ -38,6 +38,19 @@ Therefore, please request an entry pass only if you need to attend virtually.
 
 # Next Tutorial
 
+**ExpM+NF: Privacy preservation with normalizing flows**
+<br>Time: 04/26/2024, 2:00 PM - 4:00 PM (ET)
+<br> Virtual (Microsoft Teams)
+<br>[Robert A Bridges](https://www.ornl.gov/staff-profile/robert-bridges)
+<br>Oak Ridge National Laboratory
+
+|         |
+| ------- |
+| [![RAB](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/profile-pic.jpg?itok=ZSphOYck)](https://www.ornl.gov/staff-profile/robert-bridges)|
+| Robert A Bridges<br> Research Scientist<br>Computing and Computational Sciences Directorate, ORNL |
+
+# Past Tutorial
+
 **Material Property Prediction with Large Scale GNNs**
 <br>Time: 03/28/2024, 2:00 PM - 4:00 PM (ET)
 <br> Virtual (Microsoft Teams)
@@ -62,6 +75,8 @@ Massimiliano (Max) Lupo Pasini obtained his Bachelor of Science and Master of Sc
 In November 2019, Max became a computational scientist in the Scalable Algorithms and Coupled Physics Group in the Advanced Computing Methods for Engineered Systems Section of the Computational Sciences and Engineering Division at ORNL. In November 2020, Max became a data scientist in the Computational Coupled Physics group within the same section.
 
 Max’s research focuses on the development of surrogate and generative AI models for material sciences, scalable hyper parameter optimization techniques for deep learning (DL) models, and acceleration of computational methods for physics applications. He was the technical lead of the Surrogates Models for Material Properties product within the Artificial Intelligence for Science and Discovery (AISD) thrust of the ORNL Artificial Intelligence Initiative in the fiscal years FY21, FY22, and FY23. He is currently the interim technical lead of the AISD thrust for fiscal years FY24 and FY25.
+
+> [slides](2024-AI-Tutorial/HydraGNN_AI_Tutorial_Series_03282024.pdf)
 
 <a href="#top"> &#10558; Back to top</a>
 
