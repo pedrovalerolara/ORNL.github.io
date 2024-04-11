@@ -22,32 +22,19 @@ Please reach out to the organizers if you would like to recommend a spearker or 
 
 # Next Presentation
 
-**ChipNeMo: Domain-Adapted LLMs for Chip Design**
+**TBA**
 
-<br> Virtual (via Microsoft Teams)
-<br> Time: 10-11 a.m. ET, Thursday, 04/11/2024
-<br> [Robert Kirby](https://www.linkedin.com/in/areskay/), [Mingjie Liu](https://research.nvidia.com/person/mingjie-liu)
+<br> Room: TBA
+<br> Time: 10-11 a.m. ET, Monday, 04/25/2024
+<br> [Dr. Sutanay Choudhury](https://www.pnnl.gov/people/sutanay-choudhury)
 
 **Abstract**
 
-[ChipNeMo](https://research.nvidia.com/publication/2023-10_chipnemo-domain-adapted-llms-chip-design) aims to explore the applications of large language models (LLMs) for industrial chip design.
-Instead of directly deploying off-the-shelf commercial or open-source LLMs, we instead adopt the following domain adaptation techniques: custom tokenizers, domain-adaptive continued pretraining, supervised fine-tuning (SFT) with domain-specific instructions, and domain-adapted retrieval models.
-We evaluate these methods on three selected LLM applications for chip design: an engineering assistant chatbot, EDA script generation, and bug summarization and analysis.
-Our results show that these domain adaptation techniques enable significant LLM performance improvements over general-purpose base models across the three evaluated applications, enabling up to 5x model size reduction with similar or better performance on a range of design tasks.
-Our findings also indicate that there’s still room for improvement between our current results and ideal outcomes.
-We believe that further investigation of domain-adapted LLM approaches will help close this gap in the future.
+TBA
 
 **Bio**
 
-Robert Kirby is a Senior Research Scientist at NVIDIA working on the Applied Deep Learning Research team.
-He received his undergraduate degree in Computer Engineering at The University of Illinois Urbana-Champaign and has been working in various parts of the NVIDIA GPU research and design team for the past 13 years.
-His research focus has included both large scale language modelling as well as deep learning applications to various parts of the ASIC design flow.
-Recently he has been focused on studying and improving the process of applying state of the art LLMs to domain specific tasks.
-
-Mingjie Liu is currently a Research Scientist at NVIDIA, where he actively conducts research on Electronic Design Automation.
-He received his PhD degree in electrical and computer engineering from the The University of Texas at Austin in 2022.
-His prior research includes applied machine learning for design automation and design automation for analog and mixed-signal integrated circuits.
-He is currently working on applying Large Language Models for chip design automation tasks.
+TBA
 
 # Upcoming Presentations
 
@@ -121,6 +108,35 @@ This initiative leverages cutting-edge advancements in LLM technology to facilit
 
 Yuan-Sen is an Associate Professor in astronomy and computer science at the Australian National University and an Associate Professor in astronomy at the Ohio State University. Yuan-Sen's research applies machine learning to advance statistical inferences using large astronomical survey data. A Malaysian native, Yuan-Sen received his PhD in astronomy and astrophysics from Harvard University in 2017. After graduating, Yuan Sen was awarded a unique four-way joint postdoctoral fellowship from Princeton University, Carnegie Institute for Sciences, NASA Hubble and the Institute for Advanced Study at Princeton before reallocating to Australia. Yuan-Sen also serves as the co-chair of the NASA Cosmic Programs Stars Science Interest Group and leads future spectroscopic surveys as the science group leader. He is an author of more than 185 publications, many of them on topics at the frontier of astrophysics and machine learning.
 
+---
+**ChipNeMo: Domain-Adapted LLMs for Chip Design**
+
+<br> Virtual (via Microsoft Teams)
+<br> Time: 10-11 a.m. ET, Thursday, 04/11/2024
+<br> [Robert Kirby](https://www.linkedin.com/in/areskay/), [Mingjie Liu](https://research.nvidia.com/person/mingjie-liu)
+
+**Abstract**
+
+[ChipNeMo](https://research.nvidia.com/publication/2023-10_chipnemo-domain-adapted-llms-chip-design) aims to explore the applications of large language models (LLMs) for industrial chip design.
+Instead of directly deploying off-the-shelf commercial or open-source LLMs, we instead adopt the following domain adaptation techniques: custom tokenizers, domain-adaptive continued pretraining, supervised fine-tuning (SFT) with domain-specific instructions, and domain-adapted retrieval models.
+We evaluate these methods on three selected LLM applications for chip design: an engineering assistant chatbot, EDA script generation, and bug summarization and analysis.
+Our results show that these domain adaptation techniques enable significant LLM performance improvements over general-purpose base models across the three evaluated applications, enabling up to 5x model size reduction with similar or better performance on a range of design tasks.
+Our findings also indicate that there’s still room for improvement between our current results and ideal outcomes.
+We believe that further investigation of domain-adapted LLM approaches will help close this gap in the future.
+
+**Bio**
+
+Robert Kirby is a Senior Research Scientist at NVIDIA working on the Applied Deep Learning Research team.
+He received his undergraduate degree in Computer Engineering at The University of Illinois Urbana-Champaign and has been working in various parts of the NVIDIA GPU research and design team for the past 13 years.
+His research focus has included both large scale language modelling as well as deep learning applications to various parts of the ASIC design flow.
+Recently he has been focused on studying and improving the process of applying state of the art LLMs to domain specific tasks.
+
+Mingjie Liu is currently a Research Scientist at NVIDIA, where he actively conducts research on Electronic Design Automation.
+He received his PhD degree in electrical and computer engineering from the The University of Texas at Austin in 2022.
+His prior research includes applied machine learning for design automation and design automation for analog and mixed-signal integrated circuits.
+He is currently working on applying Large Language Models for chip design automation tasks.
+
+> [slides](https://www.dropbox.com/scl/fi/4x1dadgpoolms2u0iswml/chipnemo-china-llm-day-v2.pdf?rlkey=nh8cpn8w8uruvkm4iij8aik17&dl=0)
 
 <a href="#top"> &#10558; Back to top</a>
 
