@@ -38,7 +38,7 @@ Therefore, please request an entry pass only if you need to attend virtually.
 
 # Next Tutorial
 
-**ExpM+NF: Privacy preservation with normalizing flows**
+**ExpM+NF: Are normalizing flows the key to unlocking the exponential mechanism? Our efforts to advance differentially private machine learning**
 <br>Time: 04/26/2024, 2:00 PM - 4:00 PM (ET)
 <br> Virtual (Microsoft Teams)
 <br>[Robert A Bridges](https://www.ornl.gov/staff-profile/robert-bridges)
@@ -48,6 +48,36 @@ Therefore, please request an entry pass only if you need to attend virtually.
 | ------- |
 | [![RAB](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/profile-pic.jpg?itok=ZSphOYck)](https://www.ornl.gov/staff-profile/robert-bridges)|
 | Robert A Bridges<br> Research Scientist<br>Computing and Computational Sciences Directorate, ORNL |
+
+**Abstract**
+
+Training machine learning models on data with privacy concerns is an increasingly common and needed situation.
+Differential privacy provides a mathematical framework for rigorously guaranteeing privacy while releasing information—roughly speaking, one makes a deterministic algorithm into a randomized algorithm (e.g., by adding noise to the output) in such a way that it masks the original data.
+Of course, accuracy is sacrificed for the gain of privacy.
+Unfortunately, the state of the art in differentially private stochastic gradient descent (DPSGD), which is the state of the art for private machine learning, is inadequate in practice as it leads to insufficient accuracy-privacy tradeoffs.
+How can we transform this field to produces sufficiently accurate models while simultaneously protecting our privacy?
+This talk presents our work to explore a new approach to differentially private machine learning.  
+ 
+First necessary background will be given.
+I’ll provide an introduction to differential privacy requiring no background in the field with a focus on differentially private machine learning.
+Our target is understanding the state of the art, DPSGD.
+The second portion of background material will introduce normalizing flows models—a family of deep learning neural networks that, by design, preserve probability densities, and hence can be used to approximate intractable probability densities.
+Basic understanding of supervised machine learning and neural networks is required.
+ 
+Once equipped with the needed background, I’ll present our new approach, ExpM+NF.
+This exploratory project investigates if we can use the Exponential Mechanism—a differential privacy mechanism for optimization—to train machine learning models with privacy.
+Historically, the exponential mechanism has been sidelined as it requires sampling from an intractable distribution.
+Can normalizing flow models, deep neural networks designed for handling intractable distributions be the key?
+Our year 1 work seeks to answer the question "Can we train a model by sampling from the exponential mechanism via an auxiliary normalizing flow?".
+Experiments and results will be presented. Our current (year 2) work seeks to prove a differential privacy guarantee that incorporates the normalizing flow's approximation to the "real" exponential mechanism distribution.
+
+**Bio**
+
+Robert A. Bridges (Bobby), is a Senior Research Mathematician at ORNL sitting in the National Security Sciences Directorate.
+Bobby currently focuses on advancing differentially private machine learning (as this talk may suggest), and using mathematical system models to identify feedback vulnerabilities.
+Bobby holds an undergraduate degree from Creighton University in mathematics as well as a PhD in mathematics from Purdue University (and he is very happy with both teams’ deep run in the March Madness tourney!)
+Leaving pure mathematics, Bobby was fortunate to obtain a postdoc position at ORNL in 2012, where he has since supported a wide variety of projects with machine learning, statistical, and applied math expertise.
+Previous work includes leading projects on intra-vehicle network security and reverse engineering algorithms, leading large-scale experiments testing commercial security tools, and serving for 2 years as the Cybersecurity Research Group Leader.
 
 # Past Tutorial
 
@@ -87,7 +117,7 @@ Please reach out if you are interested in presenting at a future event
 | Date | Title | ORNL Tutorial Lead |
 | ---- | ----- | ------------------ |
 | 03/28/2024 | Material Property Prediction with Large Scale GNNs | [Massimiliano Lupo Pasini](https://www.ornl.gov/staff-profile/massimiliano-lupo-pasini) |
-| 04/26/2024 | ExpM+NF: Privacy preservation with normalizing flows | [Robert A Bridges](https://www.ornl.gov/staff-profile/robert-bridges) |
+| 04/26/2024 | ExpM+NF: Are normalizing flows the key to unlocking the exponential mechanism? Our efforts to advance differentially private machine learning | [Robert A Bridges](https://www.ornl.gov/staff-profile/robert-bridges) |
 | 05/24/2024 | Inverse molecular design workflow | [Pilsun Yoo](https://www.ornl.gov/staff-profile/pilsun-yoo) |
 | 06/28/2024 | PI3NN: Uncertainty Quantification for ML models | [Dan Lu](https://www.ornl.gov/staff-profile/dan-lu) |
 | 07/26/2024 | VAE-NCDE: a generative time series model for probabilistic multivariate time series forecasting | [William L Gurecky](https://www.ornl.gov/staff-profile/william-l-gurecky) |
