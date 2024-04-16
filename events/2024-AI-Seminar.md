@@ -22,19 +22,30 @@ Please reach out to the organizers if you would like to recommend a spearker or 
 
 # Next Presentation
 
-**TBA**
+**CHEMREASONER: Heuristic Search over a Large Language Model’s Knowledge Space using Quantum-Chemical Feedback**
 
-<br> Room: TBA
+<br> Microsoft Teams
 <br> Time: 10-11 a.m. ET, Monday, 04/25/2024
 <br> [Dr. Sutanay Choudhury](https://www.pnnl.gov/people/sutanay-choudhury)
 
 **Abstract**
 
-TBA
+The discovery of new catalysts is essential for the design of new and more efficient chemical processes in order to transition to a sustainable future.
+We introduce an AI-guided computational screening framework unifying linguistic reasoning with quantum-chemistry based feedback from 3D atomistic representations.
+Our approach formulates catalyst discovery as an uncertain environment where an agent actively searches for highly effective catalysts via the iterative combination of large language model (LLM)-derived hypotheses and atomistic graph neural network (GNN)- derived feedback.
+Identified catalysts in intermediate search steps undergo structural evaluation based on spatial orientation, reaction pathways, and stability.
+Scoring functions based on adsorption energies and barriers steer the exploration in the LLM’s knowledge space toward energetically favorable, high-efficiency catalysts.
+We introduce planning methods that automatically guide the exploration without human input, providing competitive performance against expert-enumerated chemical descriptor-based implementations.
+By integrating language-guided reasoning with computational chemistry feedback, our work pioneers AI-accelerated, trustworthy catalyst discovery.
 
 **Bio**
 
-TBA
+Dr. Sutanay Choudhury is a Chief Scientist of Data Sciences in Advanced Computing, Mathematics and Data division at Pacific Northwest National Laboratory (PNNL), and the Deputy Director of Computational and Theoretical Chemistry Institute at PNNL.
+His current research focuses on development and application of representation learning and reasoning methods towards solving challenging problems in computational chemistry and digital health.
+Dr. Choudhury's research has been supported by US Department of Energy, Department of Homeland Security, Department of Veterans Affairs, US Department of Defense and Microsoft Research.
+He also developed StreamWorks, a streaming graph analytics system that received a R&D100 award for novel applications in cyber-security. 
+
+<a href="#top"> &#10558; Back to top</a>
 
 # Upcoming Presentations
 
@@ -63,6 +74,8 @@ He leads the machine learning team of an international, cross-disciplinary effor
 For these systems, machine learning performs experiment design, execution (in the lab and in silico), and analysis.
 For his work, he has been awarded the NIST Bronze Award (highest internal award).
 He is also the lead founder and organizer of the annual Machine Learning for Materials Research Bootcamp and Workshop (now on its 9thyear)—educating next generation and mid-career material scientists in machine learning.
+
+<a href="#top"> &#10558; Back to top</a>
 
 # Past Presentation
 
@@ -153,7 +166,7 @@ Please reach out if you are interested in presenting at a future event
 | 03-20-2024 | Building 5700, Room F234 | Dr. Raphaël Pestourie  | Georgia Institute of Technology | Scientific AI surrogate models for simulation and optimization |
 | 03-25-2024 | Building 5100, Room 140 | Dr. Yuan-Sen Ting | The Australian National University | Accelerating Astronomical Discovery: Synergies Between Generative AI, Large Language Models, and Data-Driven Astronomy |
 | 04-11-2024 | Teams | Mr. Robert Kirby <br> Dr. Mingjie Liu | Nvidia | ChipNeMo: Domain-Adapted LLMs for Chip Design |
-| 04-25-2024 | TBA   | Dr. Sutanay Choudhury | Pacific Northwest National Laboratory (PNNL) | TBA |
+| 04-25-2024 | Teams   | Dr. Sutanay Choudhury | Pacific Northwest National Laboratory (PNNL) | CHEMREASONER: Heuristic Search over a Large Language Model’s Knowledge Space using Quantum-Chemical Feedback |
 | 05-09-2024 | Hybrid | Dr. A. Gilad Kusne | NIST | NIST’s Autonomous Research Laboratories for Materials Exploration and Discovery |
 | 06-06-2024 | Teams | Dr. Ishan Thakkar | University of Kentucky | TBA |
 | 06-20-2024 | Teams | Dr. Kutyniok | Ludwig Maximilian University of Munich | TBA |
