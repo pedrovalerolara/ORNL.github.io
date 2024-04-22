@@ -39,8 +39,8 @@ Therefore, please request an entry pass only if you need to attend virtually.
 # Next Tutorial
 
 **ExpM+NF: Are normalizing flows the key to unlocking the exponential mechanism? Our efforts to advance differentially private machine learning**
-<br>Time: 04/26/2024, 2:00 PM - 4:00 PM (ET)
-<br> Virtual (Microsoft Teams)
+<br>Time: 04/25/2024, 2:00 PM - 4:00 PM (ET)
+<br> Hybrid (4100, J302; Microsoft Teams)
 <br>[Robert A Bridges](https://www.ornl.gov/staff-profile/robert-bridges)
 <br>Oak Ridge National Laboratory
 
@@ -117,7 +117,7 @@ Please reach out if you are interested in presenting at a future event
 | Date | Title | ORNL Tutorial Lead |
 | ---- | ----- | ------------------ |
 | 03/28/2024 | Material Property Prediction with Large Scale GNNs | [Massimiliano Lupo Pasini](https://www.ornl.gov/staff-profile/massimiliano-lupo-pasini) |
-| 04/26/2024 | ExpM+NF: Are normalizing flows the key to unlocking the exponential mechanism? Our efforts to advance differentially private machine learning | [Robert A Bridges](https://www.ornl.gov/staff-profile/robert-bridges) |
+| 04/25/2024 | ExpM+NF: Are normalizing flows the key to unlocking the exponential mechanism? Our efforts to advance differentially private machine learning | [Robert A Bridges](https://www.ornl.gov/staff-profile/robert-bridges) |
 | 05/24/2024 | Inverse molecular design workflow | [Pilsun Yoo](https://www.ornl.gov/staff-profile/pilsun-yoo) |
 | 06/28/2024 | PI3NN: Uncertainty Quantification for ML models | [Dan Lu](https://www.ornl.gov/staff-profile/dan-lu) |
 | 07/26/2024 | VAE-NCDE: a generative time series model for probabilistic multivariate time series forecasting | [William L Gurecky](https://www.ornl.gov/staff-profile/william-l-gurecky) |
