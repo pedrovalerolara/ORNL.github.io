@@ -38,6 +38,56 @@ Therefore, please request an entry pass only if you need to attend virtually.
 
 # Next Tutorial
 
+**Inverse molecular design workflow**
+<br>Time: 05/24/2024, 2:00 PM - 4:00 PM (ET)
+<br> Virtual (Microsoft Teams)
+<br>[Pilsun Yoo](https://www.ornl.gov/staff-profile/pilsun-yoo)
+<br>Oak Ridge National Laboratory
+
+|         |
+| ------- |
+| [![PY](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2022-09/IMG_3034_0.jpg?h=af089f55&itok=P7E4sW5_)](https://www.ornl.gov/staff-profile/pilsun-yoo)|
+
+**Abstract**
+
+TBA
+
+**Bio**
+
+Pilsun Yoo is a Postdoctoral Research Associate in the Computational Chemistry and Nanomaterials Sciences Group in the Advanced Computing Methods for Physical Sciences Section of the Computational Sciences and Engineering Division at Oak Ridge National Laboratory (ORNL).
+
+
+# Past Tutorial
+
+**Material Property Prediction with Large Scale GNNs**
+<br>Time: 03/28/2024, 2:00 PM - 4:00 PM (ET)
+<br> Virtual (Microsoft Teams)
+<br>[Massimiliano Lupo Pasini](https://www.ornl.gov/staff-profile/massimiliano-lupo-pasini)
+<br>Oak Ridge National Laboratory
+
+|         |
+| ------- |
+| [![MLP](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2019-11/MaxPortrait.jpg?h=e67f39ca&itok=0HIXThn1)](https://www.ornl.gov/staff-profile/massimiliano-lupo-pasini)|
+| Massimiliano Lupo Pasini<br> Staff Scientist<br>Computing and Computational Sciences Directorate, ORNL |
+
+
+**Abstract**
+
+During the tutorial, we will show how to use HydraGNN (https://github.com/ORNL/HydraGNN), our scalable implementation of multi-task learning graph neural networks developed at Oak Ridge National Laboratory #ORNL as part of the ORNL Artificial Intelligence Initiative.
+After discussing scientific motivations behind the need to develop scalable GNN training to support scientific applications of interest to the US Department of Energy (DOE), we will cover a hands-on session with examples of increasing difficulty. In particular, we will show how HydraGNN can be used to scale the training of GNN models on millions of atomic structures on OLCF-Summit, NERSC-Perlmutter, and OLCF-Frontier. To this day, we achieved linear scaling on these DOE leadership class supercomputing facilities using up to 1,024 GPUs.
+
+**Bio**
+
+Massimiliano (Max) Lupo Pasini obtained his Bachelor of Science and Master of Science in Mathematical Engineering at the Politecnico di Milano in Milan, Italy. The focus of his undergraduate and master studies was statistics and discretization techniques and reduction order models for partial differential equations. He obtained his PhD in Applied Mathematics at Emory University in Atlanta (GA) in May 2018. The main topic of his doctorate work was the development of efficient and resilient linear solvers for upcoming computing architectures moving towards exascale. Upon graduation, Max joined the Oak Ridge National Laboratory (ORNL) as a Postdoctoral Researcher Associate in the Scientific Computing Group at the National Center for Computational Sciences (NCCS).
+
+In November 2019, Max became a computational scientist in the Scalable Algorithms and Coupled Physics Group in the Advanced Computing Methods for Engineered Systems Section of the Computational Sciences and Engineering Division at ORNL. In November 2020, Max became a data scientist in the Computational Coupled Physics group within the same section.
+
+Max’s research focuses on the development of surrogate and generative AI models for material sciences, scalable hyper parameter optimization techniques for deep learning (DL) models, and acceleration of computational methods for physics applications. He was the technical lead of the Surrogates Models for Material Properties product within the Artificial Intelligence for Science and Discovery (AISD) thrust of the ORNL Artificial Intelligence Initiative in the fiscal years FY21, FY22, and FY23. He is currently the interim technical lead of the AISD thrust for fiscal years FY24 and FY25.
+
+> [slides](https://www.dropbox.com/scl/fi/db5nw096d6y2s20mvrgu0/HydraGNN_AI_Tutorial_Series_03282024.pdf?rlkey=juiz1da3bnuld62jancqecdi5&dl=0)
+
+<a href="#top"> &#10558; Back to top</a>
+
 **ExpM+NF: Are normalizing flows the key to unlocking the exponential mechanism? Our efforts to advance differentially private machine learning**
 <br>Time: 04/25/2024, 2:00 PM - 4:00 PM (ET)
 <br> Hybrid (4100, J302; Microsoft Teams)
@@ -78,37 +128,6 @@ Bobby currently focuses on advancing differentially private machine learning (as
 Bobby holds an undergraduate degree from Creighton University in mathematics as well as a PhD in mathematics from Purdue University (and he is very happy with both teams’ deep run in the March Madness tourney!)
 Leaving pure mathematics, Bobby was fortunate to obtain a postdoc position at ORNL in 2012, where he has since supported a wide variety of projects with machine learning, statistical, and applied math expertise.
 Previous work includes leading projects on intra-vehicle network security and reverse engineering algorithms, leading large-scale experiments testing commercial security tools, and serving for 2 years as the Cybersecurity Research Group Leader.
-
-# Past Tutorial
-
-**Material Property Prediction with Large Scale GNNs**
-<br>Time: 03/28/2024, 2:00 PM - 4:00 PM (ET)
-<br> Virtual (Microsoft Teams)
-<br>[Massimiliano Lupo Pasini](https://www.ornl.gov/staff-profile/massimiliano-lupo-pasini)
-<br>Oak Ridge National Laboratory
-
-|         |
-| ------- |
-| [![MLP](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2019-11/MaxPortrait.jpg?h=e67f39ca&itok=0HIXThn1)](https://www.ornl.gov/staff-profile/massimiliano-lupo-pasini)|
-| Massimiliano Lupo Pasini<br> Staff Scientist<br>Computing and Computational Sciences Directorate, ORNL |
-
-
-**Abstract**
-
-During the tutorial, we will show how to use HydraGNN (https://github.com/ORNL/HydraGNN), our scalable implementation of multi-task learning graph neural networks developed at Oak Ridge National Laboratory #ORNL as part of the ORNL Artificial Intelligence Initiative.
-After discussing scientific motivations behind the need to develop scalable GNN training to support scientific applications of interest to the US Department of Energy (DOE), we will cover a hands-on session with examples of increasing difficulty. In particular, we will show how HydraGNN can be used to scale the training of GNN models on millions of atomic structures on OLCF-Summit, NERSC-Perlmutter, and OLCF-Frontier. To this day, we achieved linear scaling on these DOE leadership class supercomputing facilities using up to 1,024 GPUs.
-
-**Bio**
-
-Massimiliano (Max) Lupo Pasini obtained his Bachelor of Science and Master of Science in Mathematical Engineering at the Politecnico di Milano in Milan, Italy. The focus of his undergraduate and master studies was statistics and discretization techniques and reduction order models for partial differential equations. He obtained his PhD in Applied Mathematics at Emory University in Atlanta (GA) in May 2018. The main topic of his doctorate work was the development of efficient and resilient linear solvers for upcoming computing architectures moving towards exascale. Upon graduation, Max joined the Oak Ridge National Laboratory (ORNL) as a Postdoctoral Researcher Associate in the Scientific Computing Group at the National Center for Computational Sciences (NCCS).
-
-In November 2019, Max became a computational scientist in the Scalable Algorithms and Coupled Physics Group in the Advanced Computing Methods for Engineered Systems Section of the Computational Sciences and Engineering Division at ORNL. In November 2020, Max became a data scientist in the Computational Coupled Physics group within the same section.
-
-Max’s research focuses on the development of surrogate and generative AI models for material sciences, scalable hyper parameter optimization techniques for deep learning (DL) models, and acceleration of computational methods for physics applications. He was the technical lead of the Surrogates Models for Material Properties product within the Artificial Intelligence for Science and Discovery (AISD) thrust of the ORNL Artificial Intelligence Initiative in the fiscal years FY21, FY22, and FY23. He is currently the interim technical lead of the AISD thrust for fiscal years FY24 and FY25.
-
-> [slides](https://www.dropbox.com/scl/fi/db5nw096d6y2s20mvrgu0/HydraGNN_AI_Tutorial_Series_03282024.pdf?rlkey=juiz1da3bnuld62jancqecdi5&dl=0)
-
-<a href="#top"> &#10558; Back to top</a>
 
 # Schedule 
 
