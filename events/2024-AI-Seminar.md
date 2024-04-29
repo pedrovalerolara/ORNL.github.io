@@ -22,33 +22,6 @@ Please reach out to the organizers if you would like to recommend a spearker or 
 
 # Next Presentation
 
-**CHEMREASONER: Heuristic Search over a Large Language Model’s Knowledge Space using Quantum-Chemical Feedback**
-
-<br> Microsoft Teams
-<br> Time: 10-11 a.m. ET, Monday, 04/25/2024
-<br> [Dr. Sutanay Choudhury](https://www.pnnl.gov/people/sutanay-choudhury)
-
-**Abstract**
-
-The discovery of new catalysts is essential for the design of new and more efficient chemical processes in order to transition to a sustainable future.
-We introduce an AI-guided computational screening framework unifying linguistic reasoning with quantum-chemistry based feedback from 3D atomistic representations.
-Our approach formulates catalyst discovery as an uncertain environment where an agent actively searches for highly effective catalysts via the iterative combination of large language model (LLM)-derived hypotheses and atomistic graph neural network (GNN)- derived feedback.
-Identified catalysts in intermediate search steps undergo structural evaluation based on spatial orientation, reaction pathways, and stability.
-Scoring functions based on adsorption energies and barriers steer the exploration in the LLM’s knowledge space toward energetically favorable, high-efficiency catalysts.
-We introduce planning methods that automatically guide the exploration without human input, providing competitive performance against expert-enumerated chemical descriptor-based implementations.
-By integrating language-guided reasoning with computational chemistry feedback, our work pioneers AI-accelerated, trustworthy catalyst discovery.
-
-**Bio**
-
-Dr. Sutanay Choudhury is a Chief Scientist of Data Sciences in Advanced Computing, Mathematics and Data division at Pacific Northwest National Laboratory (PNNL), and the Deputy Director of Computational and Theoretical Chemistry Institute at PNNL.
-His current research focuses on development and application of representation learning and reasoning methods towards solving challenging problems in computational chemistry and digital health.
-Dr. Choudhury's research has been supported by US Department of Energy, Department of Homeland Security, Department of Veterans Affairs, US Department of Defense and Microsoft Research.
-He also developed StreamWorks, a streaming graph analytics system that received a R&D100 award for novel applications in cyber-security. 
-
-<a href="#top"> &#10558; Back to top</a>
-
-# Upcoming Presentations
-
 **NIST’s Autonomous Research Laboratories for Materials Exploration and Discovery**
 
 <br> Room: TBA
@@ -76,6 +49,10 @@ For his work, he has been awarded the NIST Bronze Award (highest internal award)
 He is also the lead founder and organizer of the annual Machine Learning for Materials Research Bootcamp and Workshop (now on its 9thyear)—educating next generation and mid-career material scientists in machine learning.
 
 <a href="#top"> &#10558; Back to top</a>
+
+# Upcoming Presentations
+
+
 
 # Past Presentation
 
@@ -150,6 +127,32 @@ His prior research includes applied machine learning for design automation and d
 He is currently working on applying Large Language Models for chip design automation tasks.
 
 > [slides](https://www.dropbox.com/scl/fi/4x1dadgpoolms2u0iswml/chipnemo-china-llm-day-v2.pdf?rlkey=nh8cpn8w8uruvkm4iij8aik17&dl=0)
+
+<a href="#top"> &#10558; Back to top</a>
+
+---
+**CHEMREASONER: Heuristic Search over a Large Language Model’s Knowledge Space using Quantum-Chemical Feedback**
+
+<br> Microsoft Teams
+<br> Time: 10-11 a.m. ET, Monday, 04/25/2024
+<br> [Dr. Sutanay Choudhury](https://www.pnnl.gov/people/sutanay-choudhury)
+
+**Abstract**
+
+The discovery of new catalysts is essential for the design of new and more efficient chemical processes in order to transition to a sustainable future.
+We introduce an AI-guided computational screening framework unifying linguistic reasoning with quantum-chemistry based feedback from 3D atomistic representations.
+Our approach formulates catalyst discovery as an uncertain environment where an agent actively searches for highly effective catalysts via the iterative combination of large language model (LLM)-derived hypotheses and atomistic graph neural network (GNN)- derived feedback.
+Identified catalysts in intermediate search steps undergo structural evaluation based on spatial orientation, reaction pathways, and stability.
+Scoring functions based on adsorption energies and barriers steer the exploration in the LLM’s knowledge space toward energetically favorable, high-efficiency catalysts.
+We introduce planning methods that automatically guide the exploration without human input, providing competitive performance against expert-enumerated chemical descriptor-based implementations.
+By integrating language-guided reasoning with computational chemistry feedback, our work pioneers AI-accelerated, trustworthy catalyst discovery.
+
+**Bio**
+
+Dr. Sutanay Choudhury is a Chief Scientist of Data Sciences in Advanced Computing, Mathematics and Data division at Pacific Northwest National Laboratory (PNNL), and the Deputy Director of Computational and Theoretical Chemistry Institute at PNNL.
+His current research focuses on development and application of representation learning and reasoning methods towards solving challenging problems in computational chemistry and digital health.
+Dr. Choudhury's research has been supported by US Department of Energy, Department of Homeland Security, Department of Veterans Affairs, US Department of Defense and Microsoft Research.
+He also developed StreamWorks, a streaming graph analytics system that received a R&D100 award for novel applications in cyber-security. 
 
 <a href="#top"> &#10558; Back to top</a>
 
