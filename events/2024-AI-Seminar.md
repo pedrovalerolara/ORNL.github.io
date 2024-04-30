@@ -52,6 +52,31 @@ He is also the lead founder and organizer of the annual Machine Learning for Mat
 
 # Upcoming Presentations
 
+**Empowering Graph Deep Learning at Scale**
+
+<br> Microsoft Teams
+<br> Time: 10-11 a.m. ET, Thursday, 07/11/2024
+<br> [Dr. Xiaorui Liu](https://www.csc.ncsu.edu/people/xliu96)
+
+**Abstract**
+
+Graph deep learning such as Graph Neural Networks (GNNs) has attracted tremendous research interest and become one of the most exciting and emerging research topics in AI and scientific computing.
+GNNs not only facilitate knowledge discovery for numerous impactful applications but also accelerate critical scientific discoveries across various scientific domains.
+However, they face new complexities and unique scalability challenges as compared to traditional graph analytic or deep learning algorithms due to the end-to-end training requirements and non-iid nature of graph data.
+
+This talk first summarizes current solutions and challenges for training GNNs at scale and then presents a promising implicit modeling perspective to significantly reduce memory, computation, and communication costs.
+Finally, this talk delves into the practical applications in web-scale recommender systems.
+The talk provides insight to revolutionize the scalability, efficiency, and effectiveness of training graph deep learning models at exascale.
+
+**Bio**
+
+Dr. Xiaorui Liu has been an Assistant Professor of Computer Science at North Carolina State University since Fall 2022.
+He received his Ph.D. degree in Computer Science from Michigan State University in 2022.
+His research interests include large-scale machine learning, trustworthy artificial intelligence, deep learning on graphs/language/vision, and AI applications.
+He was awarded the ACM SIGKDD Outstanding Dissertation Award (1st Runner-up) in 2023, Amazon Research Awards in 2022 and 2023, NCSU Data Science Academy Award in 2023, NCSU Faculty Research and Professional Development Award in 2023, Best Paper Honorable Mention Award at ICHI 2019, MSU Cloud Computing Fellowship in 2021 and Engineering Distinguished Fellowship in 2017.
+Dr. Liu has published innovative works in top-tier conferences such as NeurIPS, ICML, ICLR, KDD, AISTATS, WWW, SIGIR, ICDE, SDM, ICDM, and CIKM.
+He also organized and presented 9 tutorials related to his research in large-scale GNNs, distributed machine learning, graph representation learning, and trustworthy AI.
+More details can be found on the homepage: https://sites.google.com/ncsu.edu/xiaorui/
 
 
 # Past Presentation
@@ -173,6 +198,7 @@ Please reach out if you are interested in presenting at a future event
 | 05-09-2024 | Hybrid | Dr. A. Gilad Kusne | NIST | NIST’s Autonomous Research Laboratories for Materials Exploration and Discovery |
 | 06-06-2024 | Teams | Dr. Ishan Thakkar | University of Kentucky | TBA |
 | 06-20-2024 | Teams | Dr. Kutyniok | Ludwig Maximilian University of Munich | TBA |
+| 07-11-2024 | Teams | Dr. Xiaorui Liu | North Carolina State University | Empowering Graph Deep Learning at Scale |
 
 <a href="#top"> &#10558; Back to top</a>
 
