@@ -129,6 +129,8 @@ Bobby holds an undergraduate degree from Creighton University in mathematics as 
 Leaving pure mathematics, Bobby was fortunate to obtain a postdoc position at ORNL in 2012, where he has since supported a wide variety of projects with machine learning, statistical, and applied math expertise.
 Previous work includes leading projects on intra-vehicle network security and reverse engineering algorithms, leading large-scale experiments testing commercial security tools, and serving for 2 years as the Cybersecurity Research Group Leader.
 
+> [slides](https://www.dropbox.com/scl/fi/qzbiapsp4llsu6e5in0ky/2024-04-25-tutorial.pdf?rlkey=ag8cvjbvy7ov9xtq3eb1kn97g&dl=0)
+
 # Schedule 
 
 Please reach out if you are interested in presenting at a future event
