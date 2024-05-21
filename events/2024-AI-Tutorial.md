@@ -38,15 +38,16 @@ Therefore, please request an entry pass only if you need to attend virtually.
 
 # Next Tutorial
 
-**Inverse molecular design workflow**
-<br>Time: 05/24/2024, 2:00 PM - 4:00 PM (ET)
+**PI3NN: Uncertainty Quantification for ML models**
+<br>Time: 06/28/2024, 2:00 PM - 4:00 PM (ET)
 <br> Virtual (Microsoft Teams)
-<br>[Pilsun Yoo](https://www.ornl.gov/staff-profile/pilsun-yoo)
+<br>[Dan Lu](https://www.ornl.gov/staff-profile/dan-lu)
 <br>Oak Ridge National Laboratory
 
 |         |
 | ------- |
-| [![PY](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2022-09/IMG_3034_0.jpg?h=af089f55&itok=P7E4sW5_)](https://www.ornl.gov/staff-profile/pilsun-yoo)|
+| [![DL](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2023-12/DanLu_use.JPG?h=4993d7a4&itok=qInYKsi0)](https://www.ornl.gov/staff-profile/dan-lu)|
+| Dan Lu<br> Research Scientist<br>Computing and Computational Sciences Directorate, ORNL |
 
 **Abstract**
 
@@ -54,8 +55,12 @@ TBA
 
 **Bio**
 
-Pilsun Yoo is a Postdoctoral Research Associate in the Computational Chemistry and Nanomaterials Sciences Group in the Advanced Computing Methods for Physical Sciences Section of the Computational Sciences and Engineering Division at Oak Ridge National Laboratory (ORNL).
+Dan Lu is a Senior Staff Scientist in the Computational Earth Sciences Group in the Computational Sciences and Engineering Division.
+Her research interests include Machine Learning (ML), Uncertainty Quantification (UQ), Surrogate Modeling, Inverse Modeling, Multimodel Analysis, Sensitivity Analysis, Experimental Design, and Numerical Simulations of Hydrological and Earth Systems.
+Dan is the PI of multiple projects funded by both the Office of Science and Applied Offices within DOE, including an UQ for ML project, an Earth System Modeling project, a Hydropower project, and a Geological Carbon Storage project.
+She has served on several editorial boards of international journals, organized dozens of technical workshops, authored over 70 publications, and developed two software.
 
+Dan earned her Ph.D. in Computational Hydrology at Florida State University in 2012, and received the DOE Early Career Award in 2023. 
 
 # Past Tutorial
 
@@ -139,7 +144,6 @@ Please reach out if you are interested in presenting at a future event
 | ---- | ----- | ------------------ |
 | 03/28/2024 | Material Property Prediction with Large Scale GNNs | [Massimiliano Lupo Pasini](https://www.ornl.gov/staff-profile/massimiliano-lupo-pasini) |
 | 04/25/2024 | ExpM+NF: Are normalizing flows the key to unlocking the exponential mechanism? Our efforts to advance differentially private machine learning | [Robert A Bridges](https://www.ornl.gov/staff-profile/robert-bridges) |
-| 05/24/2024 | Inverse molecular design workflow | [Pilsun Yoo](https://www.ornl.gov/staff-profile/pilsun-yoo) |
 | 06/28/2024 | PI3NN: Uncertainty Quantification for ML models | [Dan Lu](https://www.ornl.gov/staff-profile/dan-lu) |
 | 07/26/2024 | VAE-NCDE: a generative time series model for probabilistic multivariate time series forecasting | [William L Gurecky](https://www.ornl.gov/staff-profile/william-l-gurecky) |
 | 08/23/2024 | ML-HSIR: Machine Learning based Hyperspectral Image Reconstruction the edge | [Narasinga Rao Miniskar](https://www.ornl.gov/staff-profile/narasinga-r-miniskar) |

@@ -22,33 +22,6 @@ Please reach out to the organizers if you would like to recommend a spearker or 
 
 # Next Presentation
 
-**NIST’s Autonomous Research Laboratories for Materials Exploration and Discovery**
-
-<br> Room: TBA
-<br> Time: 10-11 a.m. ET, Monday, 05/09/2024
-<br> [Dr. A. Gilad Kusne](https://www.nist.gov/people/aaron-gilad-kusne)
-
-**Abstract**
-
-Autonomous research laboratories (also known as self-driving labs) accelerate the scientific process - letting scientists fail smarter, learn faster, and spend less resources in their studies.
-This is achieved by placing machine learning in control of automated lab equipment, i.e., putting machine learning in the driver’s seat.
-The user defines their goals and the machine learning then selects, performs, and analyzes experiments in a closed loop to home in on those goals.
-By integrating prior knowledge into the machine learning framework, even greater accelerations can be achieved.
-Knowledge sources include theory, computation, databases, and human intuition.
-In this talk I will discuss NIST’s diverse set of autonomous labs for materials exploration and discovery.
-I will also discuss how integrating external knowledge boosts their performance.
-
-**Bio**
-
-A. Gilad Kusne received his B.S., M.S., and Ph.D. degrees from Carnegie Mellon University.
-He is a Staff Scientist with the National Institute of Standards and Technology (NIST), Gaithersburg, Maryland, an adjunct professor with the University of Maryland, and a Fellow of the American Physical Society.
-His research is part of the White House’s Materials Genome Initiative at NIST, a project which aims to accelerate the discovery and optimization of advanced materials.
-He leads the machine learning team of an international, cross-disciplinary effort building autonomous research systems, with the goal of advancing solid state, soft, and biological materials.
-For these systems, machine learning performs experiment design, execution (in the lab and in silico), and analysis.
-For his work, he has been awarded the NIST Bronze Award (highest internal award).
-He is also the lead founder and organizer of the annual Machine Learning for Materials Research Bootcamp and Workshop (now on its 9thyear)—educating next generation and mid-career material scientists in machine learning.
-
-<a href="#top"> &#10558; Back to top</a>
 
 # Upcoming Presentations
 
@@ -178,6 +151,35 @@ Dr. Sutanay Choudhury is a Chief Scientist of Data Sciences in Advanced Computin
 His current research focuses on development and application of representation learning and reasoning methods towards solving challenging problems in computational chemistry and digital health.
 Dr. Choudhury's research has been supported by US Department of Energy, Department of Homeland Security, Department of Veterans Affairs, US Department of Defense and Microsoft Research.
 He also developed StreamWorks, a streaming graph analytics system that received a R&D100 award for novel applications in cyber-security. 
+
+<a href="#top"> &#10558; Back to top</a>
+
+---
+**NIST’s Autonomous Research Laboratories for Materials Exploration and Discovery**
+
+<br> Room: TBA
+<br> Time: 10-11 a.m. ET, Monday, 05/09/2024
+<br> [Dr. A. Gilad Kusne](https://www.nist.gov/people/aaron-gilad-kusne)
+
+**Abstract**
+
+Autonomous research laboratories (also known as self-driving labs) accelerate the scientific process - letting scientists fail smarter, learn faster, and spend less resources in their studies.
+This is achieved by placing machine learning in control of automated lab equipment, i.e., putting machine learning in the driver’s seat.
+The user defines their goals and the machine learning then selects, performs, and analyzes experiments in a closed loop to home in on those goals.
+By integrating prior knowledge into the machine learning framework, even greater accelerations can be achieved.
+Knowledge sources include theory, computation, databases, and human intuition.
+In this talk I will discuss NIST’s diverse set of autonomous labs for materials exploration and discovery.
+I will also discuss how integrating external knowledge boosts their performance.
+
+**Bio**
+
+A. Gilad Kusne received his B.S., M.S., and Ph.D. degrees from Carnegie Mellon University.
+He is a Staff Scientist with the National Institute of Standards and Technology (NIST), Gaithersburg, Maryland, an adjunct professor with the University of Maryland, and a Fellow of the American Physical Society.
+His research is part of the White House’s Materials Genome Initiative at NIST, a project which aims to accelerate the discovery and optimization of advanced materials.
+He leads the machine learning team of an international, cross-disciplinary effort building autonomous research systems, with the goal of advancing solid state, soft, and biological materials.
+For these systems, machine learning performs experiment design, execution (in the lab and in silico), and analysis.
+For his work, he has been awarded the NIST Bronze Award (highest internal award).
+He is also the lead founder and organizer of the annual Machine Learning for Materials Research Bootcamp and Workshop (now on its 9thyear)—educating next generation and mid-career material scientists in machine learning.
 
 <a href="#top"> &#10558; Back to top</a>
 
