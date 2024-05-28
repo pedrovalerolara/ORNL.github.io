@@ -22,6 +22,29 @@ Please reach out to the organizers if you would like to recommend a spearker or 
 
 # Next Presentation
 
+**Towards Petascale In-Package Computing with Unconventional Technologies and Architectures**
+
+<br> Microsoft Teams
+<br> Time: 10-11 a.m. ET, Thursday, 06/06/2024
+<br> [Dr. Ishan Thakkar](https://www.engr.uky.edu/directory/thakkar-ishan)
+
+**Abstract**
+
+Growing performance and energy efficiency demands of AI workloads put tremendous pressure on today’s computing systems, breaking down the two longstanding technological pillars of computing evolution: Moore’s law and von Neumann computer architecture.
+This has jeopardized the continuous evolution of computing systems in terms of their energy efficiency and computing capabilities.
+Our research focuses on avoiding this undesired outcome.
+This talk will showcase how we strive to design fundamentally high-speed and energy-efficient in-package computing systems by employing the principles of heterogeneity, parallelism, and reconfigurability, to contribute innovative solutions that are based on unconventional, but strong, technological pillars such as Integrated Electro-Photonics, Processing-in-Memory, Neuromorphic Hardware Design and Stochastic Computing.
+
+**Bio**
+
+Dr. Ishan Thakkar is an Assistant Professor in the Department of Electrical and Computer Engineering at the University of Kentucky, Lexington, KY.
+He received his Ph.D. and M.S. in Electrical Engineering from Colorado State University (CSU), Fort Collins, CO.
+Dr. Thakkar is the recipient of the Outstanding Reviewer Award from IEEE/ACM CODES+ISSS 2022.
+He is the recipient of the Best Paper Award from ACM GLSVLSI 2021, a Best Paper Award Nomination from IEEE ISVLSI 2021, the Best Paper Award Honorary Selection from ACM GLSVLSI 2020, the Best Paper Award from the IEEE/ACM SLIP 2016 workshop, a Best Paper Nomination from IEEE ISQED 2016, and a Best Paper Finalist Selection from the IEEE TMSCS journal in 2015, for his research contributions.
+He is currently an Associate Editor for the IEEE TCVLSI Newsletter.
+He serves in the ACM SIGDA Executive Team as the Social Media Chair.
+His research broadly focuses on the design and optimization of unconventional (more-than-Moore) architectures and technologies for energy-efficient, reliable, and secure computing.
+More specific more-than-Moore technology interests of his include silicon photonics, optical computing, in- memory computing, stochastic/unary computing, monolithic 3D (M3D) integration, and polymer and transparent conductive oxides-based photonic devices and sensors.
 
 # Upcoming Presentations
 
@@ -198,7 +221,7 @@ Please reach out if you are interested in presenting at a future event
 | 04-11-2024 | Teams | Mr. Robert Kirby <br> Dr. Mingjie Liu | Nvidia | ChipNeMo: Domain-Adapted LLMs for Chip Design |
 | 04-25-2024 | Teams   | Dr. Sutanay Choudhury | Pacific Northwest National Laboratory (PNNL) | CHEMREASONER: Heuristic Search over a Large Language Model’s Knowledge Space using Quantum-Chemical Feedback |
 | 05-09-2024 | Hybrid | Dr. A. Gilad Kusne | NIST | NIST’s Autonomous Research Laboratories for Materials Exploration and Discovery |
-| 06-06-2024 | Teams | Dr. Ishan Thakkar | University of Kentucky | TBA |
+| 06-06-2024 | Teams | Dr. Ishan Thakkar | University of Kentucky | Towards Petascale In-Package Computing with Unconventional Technologies and Architectures |
 | 06-20-2024 | Teams | Dr. Kutyniok | Ludwig Maximilian University of Munich | TBA |
 | 07-11-2024 | Teams | Dr. Xiaorui Liu | North Carolina State University | Empowering Graph Deep Learning at Scale |
 
