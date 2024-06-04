@@ -51,7 +51,13 @@ Therefore, please request an entry pass only if you need to attend virtually.
 
 **Abstract**
 
-TBA
+In machine learning (ML), understanding and quantifying prediction uncertainties is crucial, particularly when decisions rely on ML outputs.
+In this tutorial, we will introduce PI3NN (https://github.com/liusiyan/UQnet), a prediction interval-based method for uncertainty quantification (UQ) of ML models.
+
+We will begin with an overview of UQ in ML, discussing its significance and impact across various research fields.
+We will then explore the basics of the PI3NN method, providing practical examples to demonstrate its broad applicability in diverse scientific domains.
+The tutorial will include a hands-on session where participants can familiarize themselves with this method through examples that include dense neural networks with synthetic data and Long Short-Term Memory networks with real observations.
+We will guide participants step-by-step through the process in a Google Colab Notebook format, enhancing both understanding and practical skills.
 
 **Bio**
 
