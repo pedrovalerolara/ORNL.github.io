@@ -1,13 +1,12 @@
 ---
 layout: default
 title: ORNL’s Secure, Trustworthy, and Energy-Efficient Artificial Intelligence Summer Institute <br/> 
-description: Organized by ORNL’s AI Initiative <br/>
+description: An AI for science tutorial series for summer students <br/>
+             Organized by ORNL’s AI Initiative <br/>
              Hybrid<br/>
 permalink: /events/ai-summer-school-2024/
 tags: events
 ---
-
-# ORNL’s Secure, Trustworthy, and Energy-Efficient Artificial Intelligence Summer Institute
 
 ![banner](images/FY24_AI_summer_school.jpg)
 
