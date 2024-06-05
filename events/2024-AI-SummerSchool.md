@@ -9,7 +9,7 @@ tags: events
 
 # ORNL’s Secure, Trustworthy, and Energy-Efficient Artificial Intelligence Summer Institute
 
-![banner](images/FY24_AI_summer_school.png)
+![banner](images/FY24_AI_summer_school.jpg)
 
 The Artificial Intelligence Summer Institute (AISI) aims to foster the growth of a diverse workforce in the fields of Artificial Intelligence and Machine Learning (AI/ML) to advance the development and application of secure and trustworthy AI/ML technologies for scientific discovery and create a more inclusive and innovative future for the field.
 
