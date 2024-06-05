@@ -35,9 +35,13 @@ Please reach out if you are interested in obtraining the course materials.
 | Date | Time | Topic | Lecturers |
 |------|------|-------|-----------|
 | 06/13/2024 | 9:00 AM - 12:00 PM | Generative Natural Language Processing Primer: Riding the Journey to Large Language Models | [Tirthankar Ghosal](https://www.ornl.gov/staff-profile/tirthankar-ghosal)<br/> [Emily Herron](https://www.ornl.gov/staff-profile/emily-j-herron)<br/>[Vanessa Lama](https://www.ornl.gov/staff-profile/vanessa-lama)<br/> |
+| 06/21/2024 | 9:00 AM - 12:00 PM | Build Your Own LLaMA 2 in PyTorch | [Kshitij Tayal](https://www.ornl.gov/staff-profile/kshitij-tayal) <br/> Arvind Renganathan |
 | 07/02/2024 | 9:00 AM - 12:00 PM | Training Large Language Models in Scale | [Sajal Dash](https://www.ornl.gov/staff-profile/sajal-dash) |
+| 07/11/2024 | 9:00 AM - 12:00 PM | Introduction to Graph Neural Networks | [Pablo Seleson](https://pabloseleson.ornl.gov) |
 | 07/17/2024 | 9:00 AM - 11:00 AM | Intro to LLM-assisted HPC programming | [Pedro Valero-Lara](https://www.ornl.gov/staff-profile/pedro-valero-lara) |
 | 07/25/2024 | 9:00 AM - 12:00 PM | Training Graph Neural Network Models at Scale on DOE Leadership class supercomputing facilities | [Massimiliano (Max) Lupo-Pasini](https://www.ornl.gov/staff-profile/massimiliano-lupo-pasini) <br/> |
+| 07/31/2024 | 9:00 AM - 12:00 PM | Vision Transformer | [Xiao Wang](https://www.ornl.gov/staff-profile/xiao-wang) |
+| 08/05/2024 | 9:00 AM - 12:00 PM | Building Stable Diffusion with PyTorch | [Kshitij Tayal](https://www.ornl.gov/staff-profile/kshitij-tayal) <br/> Arvind Renganathan |
 
 
 <a href="#top"> &#10558; Back to top</a>
