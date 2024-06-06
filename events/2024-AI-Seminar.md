@@ -22,32 +22,6 @@ Please reach out to the organizers if you would like to recommend a spearker or 
 
 # Next Presentation
 
-**Towards Petascale In-Package Computing with Unconventional Technologies and Architectures**
-
-<br> Microsoft Teams
-<br> Time: 10-11 a.m. ET, Thursday, 06/06/2024
-<br> [Dr. Ishan Thakkar](https://www.engr.uky.edu/directory/thakkar-ishan)
-
-**Abstract**
-
-Growing performance and energy efficiency demands of AI workloads put tremendous pressure on today’s computing systems, breaking down the two longstanding technological pillars of computing evolution: Moore’s law and von Neumann computer architecture.
-This has jeopardized the continuous evolution of computing systems in terms of their energy efficiency and computing capabilities.
-Our research focuses on avoiding this undesired outcome.
-This talk will showcase how we strive to design fundamentally high-speed and energy-efficient in-package computing systems by employing the principles of heterogeneity, parallelism, and reconfigurability, to contribute innovative solutions that are based on unconventional, but strong, technological pillars such as Integrated Electro-Photonics, Processing-in-Memory, Neuromorphic Hardware Design and Stochastic Computing.
-
-**Bio**
-
-Dr. Ishan Thakkar is an Assistant Professor in the Department of Electrical and Computer Engineering at the University of Kentucky, Lexington, KY.
-He received his Ph.D. and M.S. in Electrical Engineering from Colorado State University (CSU), Fort Collins, CO.
-Dr. Thakkar is the recipient of the Outstanding Reviewer Award from IEEE/ACM CODES+ISSS 2022.
-He is the recipient of the Best Paper Award from ACM GLSVLSI 2021, a Best Paper Award Nomination from IEEE ISVLSI 2021, the Best Paper Award Honorary Selection from ACM GLSVLSI 2020, the Best Paper Award from the IEEE/ACM SLIP 2016 workshop, a Best Paper Nomination from IEEE ISQED 2016, and a Best Paper Finalist Selection from the IEEE TMSCS journal in 2015, for his research contributions.
-He is currently an Associate Editor for the IEEE TCVLSI Newsletter.
-He serves in the ACM SIGDA Executive Team as the Social Media Chair.
-His research broadly focuses on the design and optimization of unconventional (more-than-Moore) architectures and technologies for energy-efficient, reliable, and secure computing.
-More specific more-than-Moore technology interests of his include silicon photonics, optical computing, in- memory computing, stochastic/unary computing, monolithic 3D (M3D) integration, and polymer and transparent conductive oxides-based photonic devices and sensors.
-
-# Upcoming Presentations
-
 **Reliability of Artificial Intelligence: Chances and Challenges**
 
 <br> Microsoft Teams
@@ -79,7 +53,10 @@ She currently acts as LMU-Director of the Konrad Zuse School of Excellence in Re
 
 Gitta Kutyniok's research work covers, in particular, the areas of applied and computational harmonic analysis, artificial intelligence,compressed sensing, deep learning, imaging sciences, inverse problems,and applications to life sciences, robotics, and telecommunication.
 
----
+<a href="#top"> &#10558; Back to top</a>
+
+# Upcoming Presentations
+
 **Empowering Graph Deep Learning at Scale**
 
 <br> Microsoft Teams
@@ -106,6 +83,7 @@ Dr. Liu has published innovative works in top-tier conferences such as NeurIPS, 
 He also organized and presented 9 tutorials related to his research in large-scale GNNs, distributed machine learning, graph representation learning, and trustworthy AI.
 More details can be found on the homepage: https://sites.google.com/ncsu.edu/xiaorui/
 
+<a href="#top"> &#10558; Back to top</a>
 
 # Past Presentation
 
@@ -131,6 +109,8 @@ He earned his Ph.D. in Applied Mathematics Harvard University in 2020.
 Prior to Georgia Tech, he was a postdoctoral associate at MIT Mathematics, where he worked closely with the MIT-IBM Watson AI Lab.
 Raphaël’s research synergistically combines data-driven surrogate models and direct numerical simulations to accelerate simulation and optimization of complex systems for AI-driven discoveries.
 
+<a href="#top"> &#10558; Back to top</a>
+
 ---
 **Accelerating Astronomical Discovery: Synergies Between Generative AI, Large Language Models, and Data-Driven Astronomy**
 
@@ -150,6 +130,8 @@ This initiative leverages cutting-edge advancements in LLM technology to facilit
 **Bio**
 
 Yuan-Sen is an Associate Professor in astronomy and computer science at the Australian National University and an Associate Professor in astronomy at the Ohio State University. Yuan-Sen's research applies machine learning to advance statistical inferences using large astronomical survey data. A Malaysian native, Yuan-Sen received his PhD in astronomy and astrophysics from Harvard University in 2017. After graduating, Yuan Sen was awarded a unique four-way joint postdoctoral fellowship from Princeton University, Carnegie Institute for Sciences, NASA Hubble and the Institute for Advanced Study at Princeton before reallocating to Australia. Yuan-Sen also serves as the co-chair of the NASA Cosmic Programs Stars Science Interest Group and leads future spectroscopic surveys as the science group leader. He is an author of more than 185 publications, many of them on topics at the frontier of astrophysics and machine learning.
+
+<a href="#top"> &#10558; Back to top</a>
 
 ---
 **ChipNeMo: Domain-Adapted LLMs for Chip Design**
@@ -235,6 +217,34 @@ He leads the machine learning team of an international, cross-disciplinary effor
 For these systems, machine learning performs experiment design, execution (in the lab and in silico), and analysis.
 For his work, he has been awarded the NIST Bronze Award (highest internal award).
 He is also the lead founder and organizer of the annual Machine Learning for Materials Research Bootcamp and Workshop (now on its 9thyear)—educating next generation and mid-career material scientists in machine learning.
+
+<a href="#top"> &#10558; Back to top</a>
+
+---
+
+**Towards Petascale In-Package Computing with Unconventional Technologies and Architectures**
+
+<br> Microsoft Teams
+<br> Time: 10-11 a.m. ET, Thursday, 06/06/2024
+<br> [Dr. Ishan Thakkar](https://www.engr.uky.edu/directory/thakkar-ishan)
+
+**Abstract**
+
+Growing performance and energy efficiency demands of AI workloads put tremendous pressure on today’s computing systems, breaking down the two longstanding technological pillars of computing evolution: Moore’s law and von Neumann computer architecture.
+This has jeopardized the continuous evolution of computing systems in terms of their energy efficiency and computing capabilities.
+Our research focuses on avoiding this undesired outcome.
+This talk will showcase how we strive to design fundamentally high-speed and energy-efficient in-package computing systems by employing the principles of heterogeneity, parallelism, and reconfigurability, to contribute innovative solutions that are based on unconventional, but strong, technological pillars such as Integrated Electro-Photonics, Processing-in-Memory, Neuromorphic Hardware Design and Stochastic Computing.
+
+**Bio**
+
+Dr. Ishan Thakkar is an Assistant Professor in the Department of Electrical and Computer Engineering at the University of Kentucky, Lexington, KY.
+He received his Ph.D. and M.S. in Electrical Engineering from Colorado State University (CSU), Fort Collins, CO.
+Dr. Thakkar is the recipient of the Outstanding Reviewer Award from IEEE/ACM CODES+ISSS 2022.
+He is the recipient of the Best Paper Award from ACM GLSVLSI 2021, a Best Paper Award Nomination from IEEE ISVLSI 2021, the Best Paper Award Honorary Selection from ACM GLSVLSI 2020, the Best Paper Award from the IEEE/ACM SLIP 2016 workshop, a Best Paper Nomination from IEEE ISQED 2016, and a Best Paper Finalist Selection from the IEEE TMSCS journal in 2015, for his research contributions.
+He is currently an Associate Editor for the IEEE TCVLSI Newsletter.
+He serves in the ACM SIGDA Executive Team as the Social Media Chair.
+His research broadly focuses on the design and optimization of unconventional (more-than-Moore) architectures and technologies for energy-efficient, reliable, and secure computing.
+More specific more-than-Moore technology interests of his include silicon photonics, optical computing, in- memory computing, stochastic/unary computing, monolithic 3D (M3D) integration, and polymer and transparent conductive oxides-based photonic devices and sensors.
 
 <a href="#top"> &#10558; Back to top</a>
 
