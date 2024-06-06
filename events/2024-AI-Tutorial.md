@@ -39,15 +39,15 @@ Therefore, please request an entry pass only if you need to attend virtually.
 # Next Tutorial
 
 **PI3NN: Uncertainty Quantification for ML models**
-<br>Time: 06/28/2024, 2:00 PM - 4:00 PM (ET)
+<br>Time: 06/28/2024, 9:00 AM - 12:00 PM (ET)
 <br> Virtual (Microsoft Teams)
 <br>[Dan Lu](https://www.ornl.gov/staff-profile/dan-lu)
 <br>Oak Ridge National Laboratory
 
-|         |
-| ------- |
-| [![DL](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2023-12/DanLu_use.JPG?h=4993d7a4&itok=qInYKsi0)](https://www.ornl.gov/staff-profile/dan-lu)|
-| Dan Lu<br> Research Scientist<br>Computing and Computational Sciences Directorate, ORNL |
+|         |      |
+| ------- | ---- |
+| [![DL](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2023-12/DanLu_use.JPG?h=4993d7a4&itok=qInYKsi0)](https://www.ornl.gov/staff-profile/dan-lu)| [![SL](https://media.licdn.com/dms/image/C4E03AQGxU3TocKo1Dg/profile-displayphoto-shrink_400_400/0/1550252570090?e=1723075200&v=beta&t=Xs8VdxSawDuOI0XmUqPALfrDw1DNsehWcMVHlZSgpLY)](https://www.ornl.gov/staff-profile/siyan-liu) |
+| Dan Lu<br> Senior Research Scientist<br>Computing and Computational Sciences Directorate, ORNL | Siyan Liu<br> Research Scientist<br>Computing and Computational Sciences Directorate, ORNL |
 
 **Abstract**
 
@@ -65,8 +65,11 @@ Dan Lu is a Senior Staff Scientist in the Computational Earth Sciences Group in 
 Her research interests include Machine Learning (ML), Uncertainty Quantification (UQ), Surrogate Modeling, Inverse Modeling, Multimodel Analysis, Sensitivity Analysis, Experimental Design, and Numerical Simulations of Hydrological and Earth Systems.
 Dan is the PI of multiple projects funded by both the Office of Science and Applied Offices within DOE, including an UQ for ML project, an Earth System Modeling project, a Hydropower project, and a Geological Carbon Storage project.
 She has served on several editorial boards of international journals, organized dozens of technical workshops, authored over 70 publications, and developed two software.
+Dan earned her Ph.D. in Computational Hydrology at Florida State University in 2012, and received the DOE Early Career Award in 2023.
 
-Dan earned her Ph.D. in Computational Hydrology at Florida State University in 2012, and received the DOE Early Career Award in 2023. 
+Siyan Liu is a research scientist at Oak Ridge National Laboratory (ORNL), working with the Computational Earth Sciences Group (CESG) and AI initiative.
+He finished his Ph.D. degree in Chemical & Petroleum Engineering and worked as a postdoc at ORNL before his current role.
+He has broad research interests, including developing various AI models and foundational models, uncertainty quantification, HPC and scalable AI model training, AI for science applications, numerical simulation of fluid flow in porous media, computational fluid dynamics (CFD), reservoir simulation, apply data analytics and artificial intelligence on other science and engineering problems, and high-performance parallel computing.
 
 # Past Tutorial
 
@@ -150,7 +153,7 @@ Please reach out if you are interested in presenting at a future event
 | ---- | ----- | ------------------ |
 | 03/28/2024 | Material Property Prediction with Large Scale GNNs | [Massimiliano Lupo Pasini](https://www.ornl.gov/staff-profile/massimiliano-lupo-pasini) |
 | 04/25/2024 | ExpM+NF: Are normalizing flows the key to unlocking the exponential mechanism? Our efforts to advance differentially private machine learning | [Robert A Bridges](https://www.ornl.gov/staff-profile/robert-bridges) |
-| 06/28/2024 | PI3NN: Uncertainty Quantification for ML models | [Dan Lu](https://www.ornl.gov/staff-profile/dan-lu) |
+| 06/28/2024 | PI3NN: Uncertainty Quantification for ML models | [Dan Lu](https://www.ornl.gov/staff-profile/dan-lu) <br/> [Siyan Liu](https://www.ornl.gov/staff-profile/siyan-liu) |
 | 07/26/2024 | VAE-NCDE: a generative time series model for probabilistic multivariate time series forecasting | [William L Gurecky](https://www.ornl.gov/staff-profile/william-l-gurecky) |
 | 08/23/2024 | ML-HSIR: Machine Learning based Hyperspectral Image Reconstruction the edge | [Narasinga Rao Miniskar](https://www.ornl.gov/staff-profile/narasinga-r-miniskar) |
 | 09/27/2024 | Massively parallel training for large transformers | [Xiao Wang](https://www.ornl.gov/staff-profile/xiao-wang) |
