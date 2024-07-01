@@ -38,38 +38,35 @@ Therefore, please request an entry pass only if you need to attend virtually.
 
 # Next Tutorial
 
-**PI3NN: Uncertainty Quantification for ML models**
-<br>Time: 06/28/2024, 9:00 AM - 12:00 PM (ET)
+**VAE-NCDE: a generative time series model for probabilistic multivariate time series forecasting**
+
+<br>Time: 07/26/2024, 9:00 AM - 12:00 PM (ET)
 <br> Virtual (Microsoft Teams)
-<br>[Dan Lu](https://www.ornl.gov/staff-profile/dan-lu)
+<br>[William L Gurecky](https://www.ornl.gov/staff-profile/william-l-gurecky)
 <br>Oak Ridge National Laboratory
 
-|         |      |
-| ------- | ---- |
-| [![DL](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2023-12/DanLu_use.JPG?h=4993d7a4&itok=qInYKsi0)](https://www.ornl.gov/staff-profile/dan-lu)| [![SL](https://media.licdn.com/dms/image/C4E03AQGxU3TocKo1Dg/profile-displayphoto-shrink_400_400/0/1550252570090?e=1723075200&v=beta&t=Xs8VdxSawDuOI0XmUqPALfrDw1DNsehWcMVHlZSgpLY)](https://www.ornl.gov/staff-profile/siyan-liu) |
-| Dan Lu<br> Senior Research Scientist<br>Computing and Computational Sciences Directorate, ORNL | Siyan Liu<br> Research Scientist<br>Computing and Computational Sciences Directorate, ORNL |
+|         |
+| ------- |
+| [![WLG](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2023-02/2023-P01618.jpg?h=fe2061c8&itok=GnLFc3Sv)](https://www.ornl.gov/staff-profile/william-l-gurecky)|
+| William L Gurecky<br> Research Scientist<br>Computing and Computational Sciences Directorate, ORNL |
 
 **Abstract**
 
-In machine learning (ML), understanding and quantifying prediction uncertainties is crucial, particularly when decisions rely on ML outputs.
-In this tutorial, we will introduce PI3NN (https://github.com/liusiyan/UQnet), a prediction interval-based method for uncertainty quantification (UQ) of ML models.
-
-We will begin with an overview of UQ in ML, discussing its significance and impact across various research fields.
-We will then explore the basics of the PI3NN method, providing practical examples to demonstrate its broad applicability in diverse scientific domains.
-The tutorial will include a hands-on session where participants can familiarize themselves with this method through examples that include dense neural networks with synthetic data and Long Short-Term Memory networks with real observations.
-We will guide participants step-by-step through the process in a Google Colab Notebook format, enhancing both understanding and practical skills.
+TBA
 
 **Bio**
 
-Dan Lu is a Senior Staff Scientist in the Computational Earth Sciences Group in the Computational Sciences and Engineering Division.
-Her research interests include Machine Learning (ML), Uncertainty Quantification (UQ), Surrogate Modeling, Inverse Modeling, Multimodel Analysis, Sensitivity Analysis, Experimental Design, and Numerical Simulations of Hydrological and Earth Systems.
-Dan is the PI of multiple projects funded by both the Office of Science and Applied Offices within DOE, including an UQ for ML project, an Earth System Modeling project, a Hydropower project, and a Geological Carbon Storage project.
-She has served on several editorial boards of international journals, organized dozens of technical workshops, authored over 70 publications, and developed two software.
-Dan earned her Ph.D. in Computational Hydrology at Florida State University in 2012, and received the DOE Early Career Award in 2023.
+William is an R&D associate in the Nuclear Energy and Fuel Cycle Division at Oak Ridge National Laboratory.
+He currently works with the Power Reactor Modeling group developing performant software solutions to address industry identified challenge problems.
+His research interests include applying Bayesian statistics and machine learning to reactor physics problems.
+As the principle investigator of a laboratory directed research and development project, William developed a flexible parallel optimization package, ML-PSA, that joins modern machine learning methods with multi-fidelity physics tools to solve multi-constrained and combinatorial optimization problems encountered in reactor core design. 
 
-Siyan Liu is a research scientist at Oak Ridge National Laboratory (ORNL), working with the Computational Earth Sciences Group (CESG) and AI initiative.
-He finished his Ph.D. degree in Chemical & Petroleum Engineering and worked as a postdoc at ORNL before his current role.
-He has broad research interests, including developing various AI models and foundational models, uncertainty quantification, HPC and scalable AI model training, AI for science applications, numerical simulation of fluid flow in porous media, computational fluid dynamics (CFD), reservoir simulation, apply data analytics and artificial intelligence on other science and engineering problems, and high-performance parallel computing.
+William co-developed the crud simulation code, MAMBA, that is a coupled component of the Virtual Environment for Reactor Applications (VERA).
+MAMBA allows prediction of crud-induced power shifts, constituting a key capability in the Consortium for the Advanced Simulation of LWRs' (CASL) technical portfolio.
+Additionally, he develops reduced order models and applies statistical inference techniques to a variety of model calibration tasks in MAMBA and CTF.
+
+William holds a B.Sc. in Mechanical Engineering (2013), an M.S.E. in Mechanical Engineering (2015) and a Ph.D. in Nuclear & Radiation Engineering (2018) from the University of Texas at Austin.
+In his doctoral work, William developed a statistical downscaling method to capture the influence of fine-scale flow details down stream from spacer grids on the growth rate of crud in PWRs.
 
 # Past Tutorial
 
@@ -101,6 +98,8 @@ Max’s research focuses on the development of surrogate and generative AI model
 > [slides](https://www.dropbox.com/scl/fi/db5nw096d6y2s20mvrgu0/HydraGNN_AI_Tutorial_Series_03282024.pdf?rlkey=juiz1da3bnuld62jancqecdi5&dl=0)
 
 <a href="#top"> &#10558; Back to top</a>
+
+---
 
 **ExpM+NF: Are normalizing flows the key to unlocking the exponential mechanism? Our efforts to advance differentially private machine learning**
 <br>Time: 04/25/2024, 2:00 PM - 4:00 PM (ET)
@@ -145,6 +144,41 @@ Previous work includes leading projects on intra-vehicle network security and re
 
 > [slides](https://www.dropbox.com/scl/fi/qzbiapsp4llsu6e5in0ky/2024-04-25-tutorial.pdf?rlkey=ag8cvjbvy7ov9xtq3eb1kn97g&dl=0)
 
+---
+
+**PI3NN: Uncertainty Quantification for ML models**
+<br>Time: 06/28/2024, 9:00 AM - 12:00 PM (ET)
+<br> Virtual (Microsoft Teams)
+<br>[Dan Lu](https://www.ornl.gov/staff-profile/dan-lu)
+<br>Oak Ridge National Laboratory
+
+|         |      |
+| ------- | ---- |
+| [![DL](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2023-12/DanLu_use.JPG?h=4993d7a4&itok=qInYKsi0)](https://www.ornl.gov/staff-profile/dan-lu)| [![SL](https://media.licdn.com/dms/image/C4E03AQGxU3TocKo1Dg/profile-displayphoto-shrink_400_400/0/1550252570090?e=1723075200&v=beta&t=Xs8VdxSawDuOI0XmUqPALfrDw1DNsehWcMVHlZSgpLY)](https://www.ornl.gov/staff-profile/siyan-liu) |
+| Dan Lu<br> Senior Research Scientist<br>Computing and Computational Sciences Directorate, ORNL | Siyan Liu<br> Research Scientist<br>Computing and Computational Sciences Directorate, ORNL |
+
+**Abstract**
+
+In machine learning (ML), understanding and quantifying prediction uncertainties is crucial, particularly when decisions rely on ML outputs.
+In this tutorial, we will introduce PI3NN (https://github.com/liusiyan/UQnet), a prediction interval-based method for uncertainty quantification (UQ) of ML models.
+
+We will begin with an overview of UQ in ML, discussing its significance and impact across various research fields.
+We will then explore the basics of the PI3NN method, providing practical examples to demonstrate its broad applicability in diverse scientific domains.
+The tutorial will include a hands-on session where participants can familiarize themselves with this method through examples that include dense neural networks with synthetic data and Long Short-Term Memory networks with real observations.
+We will guide participants step-by-step through the process in a Google Colab Notebook format, enhancing both understanding and practical skills.
+
+**Bio**
+
+Dan Lu is a Senior Staff Scientist in the Computational Earth Sciences Group in the Computational Sciences and Engineering Division.
+Her research interests include Machine Learning (ML), Uncertainty Quantification (UQ), Surrogate Modeling, Inverse Modeling, Multimodel Analysis, Sensitivity Analysis, Experimental Design, and Numerical Simulations of Hydrological and Earth Systems.
+Dan is the PI of multiple projects funded by both the Office of Science and Applied Offices within DOE, including an UQ for ML project, an Earth System Modeling project, a Hydropower project, and a Geological Carbon Storage project.
+She has served on several editorial boards of international journals, organized dozens of technical workshops, authored over 70 publications, and developed two software.
+Dan earned her Ph.D. in Computational Hydrology at Florida State University in 2012, and received the DOE Early Career Award in 2023.
+
+Siyan Liu is a research scientist at Oak Ridge National Laboratory (ORNL), working with the Computational Earth Sciences Group (CESG) and AI initiative.
+He finished his Ph.D. degree in Chemical & Petroleum Engineering and worked as a postdoc at ORNL before his current role.
+He has broad research interests, including developing various AI models and foundational models, uncertainty quantification, HPC and scalable AI model training, AI for science applications, numerical simulation of fluid flow in porous media, computational fluid dynamics (CFD), reservoir simulation, apply data analytics and artificial intelligence on other science and engineering problems, and high-performance parallel computing.
+
 # Schedule 
 
 Please reach out if you are interested in presenting at a future event
@@ -160,10 +194,7 @@ Please reach out if you are interested in presenting at a future event
 | 10/04/2024 | PPSD: Privacy preservation for streaming data | [Olivera Kotevska](https://www.ornl.gov/staff-profile/olivera-kotevska) |
 | 11/15/2024 | Intro to causal and explainable models in materials science | [Ayana Ghosh](https://www.ornl.gov/staff-profile/ayana-ghosh) |
 
-
-
 <a href="#top"> &#10558; Back to top</a>
-
 
 # Organization
 

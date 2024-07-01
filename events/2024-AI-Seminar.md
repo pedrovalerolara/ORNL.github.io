@@ -22,41 +22,6 @@ Please reach out to the organizers if you would like to recommend a spearker or 
 
 # Next Presentation
 
-**Reliability of Artificial Intelligence: Chances and Challenges**
-
-<br> Microsoft Teams
-<br> Time: 10-11 a.m. ET, Thursday, 06/20/2024
-<br> [Dr. Kutyniok](https://www.ai.math.lmu.de/kutyniok)
-
-**Abstract**
-
-Artificial intelligence is currently leading to one breakthrough after the other, in industry, public life, and the sciences.
-However, one current major drawback worldwide, in particular, in light of regulations such as the EU AI Act and the G7 Hiroshima AI Process, is the lack of reliability of such methodologies.
-
-In this lecture, we will provide an introduction into this vibrant research area.
-We will discuss the role of a theoretical perspective to this highly topical research direction, and survey recent advances, for instance, concerning explainability.
-Finally, we will discuss fundamental limitations, which seriously affect reliability of artificial intelligence, and discuss the necessity of next generation AI computing.
-
-**Bio**
-
-Gitta Kutyniok (https://www.ai.math.lmu.de/kutyniok) currently has a Bavarian AI Chair for Mathematical Foundations of Artificial Intelligence at the Ludwig-Maximilians-Universität München, and is in addition affiliated with the DLR-German Aerospace Center and the University of Tromso.
-She received her Diploma in Mathematics and Computer Science as well as her Ph.D. degree from the Universität Paderborn in Germany, and her Habilitation in Mathematics in 2006 at the Justus-Liebig Universität Gießen.
-From 2001 to 2008 she held visiting positions at several US institutions, including Princeton University, Stanford University, Yale University, Georgia Institute of Technology, and Washington University in St. Louis.
-In 2008, she became a full professor of mathematics at the Universität Osnabrück, and moved to Berlin three years later, where she held an Einstein Chair in the Institute of Mathematics at the Technische Universität Berlin and a courtesy appointment in the Department of Computer Science and Engineering until 2020.
-In 2023, together with colleagues she founded the start-up EcoLogic Computing GmbH. 
-
-Gitta Kutyniok has received various awards for her research such as an award from the Universität Paderborn in 2003, the Research Prize of the Justus-Liebig Universität Gießen and a Heisenberg-Fellowship in 2006, and the von Kaven Prize by the DFG in 2007.
-She was invited as the Noether Lecturer at the ÖMG-DMV Congress in 2013, a plenary lecturer at the 8th European Congress of Mathematics (8ECM) in 2021, and the lecturer of the London Mathematical Society (LMS) Invited Lecture Series in 2022.
-She was also honored by invited lectures at both the International Congress of Mathematicians 2022 (ICM 2022) and the International Congress on Industrial and Applied Mathematics (ICIAM 2023).
-Moreover, she was elected as a member of the Berlin-Brandenburg Academy of Sciences and Humanities in 2017 and of the European Academy of Sciences in 2022, and became a SIAM Fellow in 2019 and an IEEE Fellow in 2024.
-She currently acts as LMU-Director of the Konrad Zuse School of Excellence in Reliable AI (relAI) in Munich, serves as Vice President-at-Large of SIAM, and is spokesperson of the DFG-Priority Program "Theoretical Foundations of Deep Learning" and of the AI-HUB@LMU, which is the interdisciplinary platform for research and teaching in AI and data science at LMU.
-
-Gitta Kutyniok's research work covers, in particular, the areas of applied and computational harmonic analysis, artificial intelligence,compressed sensing, deep learning, imaging sciences, inverse problems,and applications to life sciences, robotics, and telecommunication.
-
-<a href="#top"> &#10558; Back to top</a>
-
-# Upcoming Presentations
-
 **Empowering Graph Deep Learning at Scale**
 
 <br> Microsoft Teams
@@ -84,6 +49,8 @@ He also organized and presented 9 tutorials related to his research in large-sca
 More details can be found on the homepage: https://sites.google.com/ncsu.edu/xiaorui/
 
 <a href="#top"> &#10558; Back to top</a>
+
+# Upcoming Presentations
 
 # Past Presentation
 
@@ -245,6 +212,41 @@ He is currently an Associate Editor for the IEEE TCVLSI Newsletter.
 He serves in the ACM SIGDA Executive Team as the Social Media Chair.
 His research broadly focuses on the design and optimization of unconventional (more-than-Moore) architectures and technologies for energy-efficient, reliable, and secure computing.
 More specific more-than-Moore technology interests of his include silicon photonics, optical computing, in- memory computing, stochastic/unary computing, monolithic 3D (M3D) integration, and polymer and transparent conductive oxides-based photonic devices and sensors.
+
+<a href="#top"> &#10558; Back to top</a>
+
+---
+
+**Reliability of Artificial Intelligence: Chances and Challenges (canceled)**
+
+<br> Microsoft Teams
+<br> Time: 10-11 a.m. ET, Thursday, 06/20/2024
+<br> [Dr. Kutyniok](https://www.ai.math.lmu.de/kutyniok)
+
+**Abstract**
+
+Artificial intelligence is currently leading to one breakthrough after the other, in industry, public life, and the sciences.
+However, one current major drawback worldwide, in particular, in light of regulations such as the EU AI Act and the G7 Hiroshima AI Process, is the lack of reliability of such methodologies.
+
+In this lecture, we will provide an introduction into this vibrant research area.
+We will discuss the role of a theoretical perspective to this highly topical research direction, and survey recent advances, for instance, concerning explainability.
+Finally, we will discuss fundamental limitations, which seriously affect reliability of artificial intelligence, and discuss the necessity of next generation AI computing.
+
+**Bio**
+
+Gitta Kutyniok (https://www.ai.math.lmu.de/kutyniok) currently has a Bavarian AI Chair for Mathematical Foundations of Artificial Intelligence at the Ludwig-Maximilians-Universität München, and is in addition affiliated with the DLR-German Aerospace Center and the University of Tromso.
+She received her Diploma in Mathematics and Computer Science as well as her Ph.D. degree from the Universität Paderborn in Germany, and her Habilitation in Mathematics in 2006 at the Justus-Liebig Universität Gießen.
+From 2001 to 2008 she held visiting positions at several US institutions, including Princeton University, Stanford University, Yale University, Georgia Institute of Technology, and Washington University in St. Louis.
+In 2008, she became a full professor of mathematics at the Universität Osnabrück, and moved to Berlin three years later, where she held an Einstein Chair in the Institute of Mathematics at the Technische Universität Berlin and a courtesy appointment in the Department of Computer Science and Engineering until 2020.
+In 2023, together with colleagues she founded the start-up EcoLogic Computing GmbH. 
+
+Gitta Kutyniok has received various awards for her research such as an award from the Universität Paderborn in 2003, the Research Prize of the Justus-Liebig Universität Gießen and a Heisenberg-Fellowship in 2006, and the von Kaven Prize by the DFG in 2007.
+She was invited as the Noether Lecturer at the ÖMG-DMV Congress in 2013, a plenary lecturer at the 8th European Congress of Mathematics (8ECM) in 2021, and the lecturer of the London Mathematical Society (LMS) Invited Lecture Series in 2022.
+She was also honored by invited lectures at both the International Congress of Mathematicians 2022 (ICM 2022) and the International Congress on Industrial and Applied Mathematics (ICIAM 2023).
+Moreover, she was elected as a member of the Berlin-Brandenburg Academy of Sciences and Humanities in 2017 and of the European Academy of Sciences in 2022, and became a SIAM Fellow in 2019 and an IEEE Fellow in 2024.
+She currently acts as LMU-Director of the Konrad Zuse School of Excellence in Reliable AI (relAI) in Munich, serves as Vice President-at-Large of SIAM, and is spokesperson of the DFG-Priority Program "Theoretical Foundations of Deep Learning" and of the AI-HUB@LMU, which is the interdisciplinary platform for research and teaching in AI and data science at LMU.
+
+Gitta Kutyniok's research work covers, in particular, the areas of applied and computational harmonic analysis, artificial intelligence,compressed sensing, deep learning, imaging sciences, inverse problems,and applications to life sciences, robotics, and telecommunication.
 
 <a href="#top"> &#10558; Back to top</a>
 
