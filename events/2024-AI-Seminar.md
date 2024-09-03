@@ -22,38 +22,6 @@ Please reach out to the organizers if you would like to recommend a spearker or 
 
 # Next Presentation
 
-**Causal representation learning in temporal settings**
-
-<br> Microsoft Teams
-<br> Time: 11:00 a.m. - 12 p.m. ET, Thursday, 08/22/2024
-<br> [Dr. Sara Magliacane](https://saramagliacane.github.io)
-
-**Abstract**
-
-Causal inference reasons about the effect of unseen interventions or external manipulations on a system.
-Similar to classic approaches to AI, it typically assumes that the causal variables of interest are given from the outset.
-However, real-world data often comprises high-dimensional, low-level observations (e.g., pixels in a video) and is thus usually not structured into such meaningful causal units.
-Causal representation learning aims at addressing this gap by learning high-level causal variables along with their causal relations directly from raw, unstructured data, e.g. images or videos.
-
-In this talk I will focus on learning causal representations in temporal sequences, e.g. sequences of images.
-In particular I will present some of our recent work on causal representation learning in environments in which we can perform interventions or actions.
-I will start by presenting CITRIS (https://arxiv.org/abs/2202.03169), where we leveraged the knowledge of which variables are intervened in each timestep to learn a provably disentangled representation of the potentially multidimensional ground truth causal variables, as well as a dynamic bayesian network representing the causal relations between these variables.
-I will then show iCITRIS (https://arxiv.org/abs/2206.06169), an extension that allows for instantaneous effects between variables.
-Finally, I will focus on our most recent method, BISCUIT (https://arxiv.org/abs/2306.09643), which overcomes one of the biggest limitations of our previous methods: the need to know which variables are intervened.
-In BISCUIT we instead leverage actions with unknown effects on an environment.
-Assuming that each causal variable has exactly two distinct causal mechanisms, we prove that we can recover each ground truth variable from a sequence of images and actions up to permutation and element-wise transformations.
-This allows us to apply BISCUIT to realistic simulated environments for embodied AI, where we can learn a latent representation that allows us to identify and manipulate each causal variable, as well as a mapping between each high-level action and its effects on the latent causal variables.
-
-**Bio**
-
-Dr. Sara Magliacane is an Assistant Professor at the Amsterdam Machine Learning Lab, University of Amsterdam.
-Her research explores how causality can enhance machine learning (ML) algorithms in robustness, cross-domain generalization, and safety.
-She focuses on causal representation learning, causal discovery, and causality-inspired ML, investigating how causal concepts help ML and reinforcement learning adapt to new domains and nonstationarity.
-
-Previously, Dr. Magliacane was a Research Scientist at the MIT-IBM Watson AI Lab and a postdoctoral researcher at IBM Research NY.
-She holds a PhD from VU Amsterdam, with internships at Google Zürich and NYC, and has a background in Computer Engineering from Politecnico di Milano, Politecnico di Torino, and the University of Trieste.
-Her work is recognized through various publications and esteemed conference participation, establishing her as a leading expert in causality and machine learning.
-
 # Upcoming Presentations
 
 # Past Presentation
@@ -281,6 +249,42 @@ He was awarded the ACM SIGKDD Outstanding Dissertation Award (1st Runner-up) in 
 Dr. Liu has published innovative works in top-tier conferences such as NeurIPS, ICML, ICLR, KDD, AISTATS, WWW, SIGIR, ICDE, SDM, ICDM, and CIKM.
 He also organized and presented 9 tutorials related to his research in large-scale GNNs, distributed machine learning, graph representation learning, and trustworthy AI.
 More details can be found on the homepage: https://sites.google.com/ncsu.edu/xiaorui/
+
+<a href="#top"> &#10558; Back to top</a>
+
+---
+
+**Causal representation learning in temporal settings**
+
+<br> Microsoft Teams
+<br> Time: 11:00 a.m. - 12 p.m. ET, Thursday, 08/22/2024
+<br> [Dr. Sara Magliacane](https://saramagliacane.github.io)
+
+**Abstract**
+
+Causal inference reasons about the effect of unseen interventions or external manipulations on a system.
+Similar to classic approaches to AI, it typically assumes that the causal variables of interest are given from the outset.
+However, real-world data often comprises high-dimensional, low-level observations (e.g., pixels in a video) and is thus usually not structured into such meaningful causal units.
+Causal representation learning aims at addressing this gap by learning high-level causal variables along with their causal relations directly from raw, unstructured data, e.g. images or videos.
+
+In this talk I will focus on learning causal representations in temporal sequences, e.g. sequences of images.
+In particular I will present some of our recent work on causal representation learning in environments in which we can perform interventions or actions.
+I will start by presenting CITRIS (https://arxiv.org/abs/2202.03169), where we leveraged the knowledge of which variables are intervened in each timestep to learn a provably disentangled representation of the potentially multidimensional ground truth causal variables, as well as a dynamic bayesian network representing the causal relations between these variables.
+I will then show iCITRIS (https://arxiv.org/abs/2206.06169), an extension that allows for instantaneous effects between variables.
+Finally, I will focus on our most recent method, BISCUIT (https://arxiv.org/abs/2306.09643), which overcomes one of the biggest limitations of our previous methods: the need to know which variables are intervened.
+In BISCUIT we instead leverage actions with unknown effects on an environment.
+Assuming that each causal variable has exactly two distinct causal mechanisms, we prove that we can recover each ground truth variable from a sequence of images and actions up to permutation and element-wise transformations.
+This allows us to apply BISCUIT to realistic simulated environments for embodied AI, where we can learn a latent representation that allows us to identify and manipulate each causal variable, as well as a mapping between each high-level action and its effects on the latent causal variables.
+
+**Bio**
+
+Dr. Sara Magliacane is an Assistant Professor at the Amsterdam Machine Learning Lab, University of Amsterdam.
+Her research explores how causality can enhance machine learning (ML) algorithms in robustness, cross-domain generalization, and safety.
+She focuses on causal representation learning, causal discovery, and causality-inspired ML, investigating how causal concepts help ML and reinforcement learning adapt to new domains and nonstationarity.
+
+Previously, Dr. Magliacane was a Research Scientist at the MIT-IBM Watson AI Lab and a postdoctoral researcher at IBM Research NY.
+She holds a PhD from VU Amsterdam, with internships at Google Zürich and NYC, and has a background in Computer Engineering from Politecnico di Milano, Politecnico di Torino, and the University of Trieste.
+Her work is recognized through various publications and esteemed conference participation, establishing her as a leading expert in causality and machine learning.
 
 <a href="#top"> &#10558; Back to top</a>
 

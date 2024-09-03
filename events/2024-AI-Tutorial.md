@@ -38,36 +38,6 @@ Therefore, please request an entry pass only if you need to attend virtually.
 
 # Next Tutorial
 
-**VAE-NCDE: a generative time series model for probabilistic multivariate time series forecasting**
-
-<br>Time: 07/26/2024, 9:00 AM - 12:00 PM (ET)
-<br> Virtual (Microsoft Teams)
-<br>[William L Gurecky](https://www.ornl.gov/staff-profile/william-l-gurecky)
-<br>Oak Ridge National Laboratory
-
-|         |
-| ------- |
-| [![WLG](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2023-02/2023-P01618.jpg?h=fe2061c8&itok=GnLFc3Sv)](https://www.ornl.gov/staff-profile/william-l-gurecky)|
-| William L Gurecky<br> Research Scientist<br>Computing and Computational Sciences Directorate, ORNL |
-
-**Abstract**
-
-TBA
-
-**Bio**
-
-William is an R&D associate in the Nuclear Energy and Fuel Cycle Division at Oak Ridge National Laboratory.
-He currently works with the Power Reactor Modeling group developing performant software solutions to address industry identified challenge problems.
-His research interests include applying Bayesian statistics and machine learning to reactor physics problems.
-As the principle investigator of a laboratory directed research and development project, William developed a flexible parallel optimization package, ML-PSA, that joins modern machine learning methods with multi-fidelity physics tools to solve multi-constrained and combinatorial optimization problems encountered in reactor core design. 
-
-William co-developed the crud simulation code, MAMBA, that is a coupled component of the Virtual Environment for Reactor Applications (VERA).
-MAMBA allows prediction of crud-induced power shifts, constituting a key capability in the Consortium for the Advanced Simulation of LWRs' (CASL) technical portfolio.
-Additionally, he develops reduced order models and applies statistical inference techniques to a variety of model calibration tasks in MAMBA and CTF.
-
-William holds a B.Sc. in Mechanical Engineering (2013), an M.S.E. in Mechanical Engineering (2015) and a Ph.D. in Nuclear & Radiation Engineering (2018) from the University of Texas at Austin.
-In his doctoral work, William developed a statistical downscaling method to capture the influence of fine-scale flow details down stream from spacer grids on the growth rate of crud in PWRs.
-
 # Past Tutorial
 
 **Material Property Prediction with Large Scale GNNs**
@@ -80,7 +50,6 @@ In his doctoral work, William developed a statistical downscaling method to capt
 | ------- |
 | [![MLP](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2019-11/MaxPortrait.jpg?h=e67f39ca&itok=0HIXThn1)](https://www.ornl.gov/staff-profile/massimiliano-lupo-pasini)|
 | Massimiliano Lupo Pasini<br> Staff Scientist<br>Computing and Computational Sciences Directorate, ORNL |
-
 
 **Abstract**
 
@@ -179,6 +148,38 @@ Siyan Liu is a research scientist at Oak Ridge National Laboratory (ORNL), worki
 He finished his Ph.D. degree in Chemical & Petroleum Engineering and worked as a postdoc at ORNL before his current role.
 He has broad research interests, including developing various AI models and foundational models, uncertainty quantification, HPC and scalable AI model training, AI for science applications, numerical simulation of fluid flow in porous media, computational fluid dynamics (CFD), reservoir simulation, apply data analytics and artificial intelligence on other science and engineering problems, and high-performance parallel computing.
 
+---
+
+**VAE-NCDE: a generative time series model for probabilistic multivariate time series forecasting**
+
+<br>Time: 07/26/2024, 9:00 AM - 12:00 PM (ET)
+<br> Virtual (Microsoft Teams)
+<br>[William L Gurecky](https://www.ornl.gov/staff-profile/william-l-gurecky)
+<br>Oak Ridge National Laboratory
+
+|         |
+| ------- |
+| [![WLG](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2023-02/2023-P01618.jpg?h=fe2061c8&itok=GnLFc3Sv)](https://www.ornl.gov/staff-profile/william-l-gurecky)|
+| William L Gurecky<br> Research Scientist<br>Computing and Computational Sciences Directorate, ORNL |
+
+**Abstract**
+
+TBA
+
+**Bio**
+
+William is an R&D associate in the Nuclear Energy and Fuel Cycle Division at Oak Ridge National Laboratory.
+He currently works with the Power Reactor Modeling group developing performant software solutions to address industry identified challenge problems.
+His research interests include applying Bayesian statistics and machine learning to reactor physics problems.
+As the principle investigator of a laboratory directed research and development project, William developed a flexible parallel optimization package, ML-PSA, that joins modern machine learning methods with multi-fidelity physics tools to solve multi-constrained and combinatorial optimization problems encountered in reactor core design. 
+
+William co-developed the crud simulation code, MAMBA, that is a coupled component of the Virtual Environment for Reactor Applications (VERA).
+MAMBA allows prediction of crud-induced power shifts, constituting a key capability in the Consortium for the Advanced Simulation of LWRs' (CASL) technical portfolio.
+Additionally, he develops reduced order models and applies statistical inference techniques to a variety of model calibration tasks in MAMBA and CTF.
+
+William holds a B.Sc. in Mechanical Engineering (2013), an M.S.E. in Mechanical Engineering (2015) and a Ph.D. in Nuclear & Radiation Engineering (2018) from the University of Texas at Austin.
+In his doctoral work, William developed a statistical downscaling method to capture the influence of fine-scale flow details down stream from spacer grids on the growth rate of crud in PWRs.
+
 # Schedule 
 
 Please reach out if you are interested in presenting at a future event
@@ -189,10 +190,10 @@ Please reach out if you are interested in presenting at a future event
 | 04/25/2024 | ExpM+NF: Are normalizing flows the key to unlocking the exponential mechanism? Our efforts to advance differentially private machine learning | [Robert A Bridges](https://www.ornl.gov/staff-profile/robert-bridges) |
 | 06/28/2024 | PI3NN: Uncertainty Quantification for ML models | [Dan Lu](https://www.ornl.gov/staff-profile/dan-lu) <br/> [Siyan Liu](https://www.ornl.gov/staff-profile/siyan-liu) |
 | 07/26/2024 | VAE-NCDE: a generative time series model for probabilistic multivariate time series forecasting | [William L Gurecky](https://www.ornl.gov/staff-profile/william-l-gurecky) |
-| 08/23/2024 | ML-HSIR: Machine Learning based Hyperspectral Image Reconstruction the edge | [Narasinga Rao Miniskar](https://www.ornl.gov/staff-profile/narasinga-r-miniskar) |
 | 09/27/2024 | Massively parallel training for large transformers | [Xiao Wang](https://www.ornl.gov/staff-profile/xiao-wang) |
-| 10/04/2024 | PPSD: Privacy preservation for streaming data | [Olivera Kotevska](https://www.ornl.gov/staff-profile/olivera-kotevska) |
+| 10/18/2024 | ML-HSIR: Machine Learning based Hyperspectral Image Reconstruction the edge | [Narasinga Rao Miniskar](https://www.ornl.gov/staff-profile/narasinga-r-miniskar) |
 | 11/15/2024 | Intro to causal and explainable models in materials science | [Ayana Ghosh](https://www.ornl.gov/staff-profile/ayana-ghosh) |
+| 12/13/2024 | PPSD: Privacy preservation for streaming data | [Olivera Kotevska](https://www.ornl.gov/staff-profile/olivera-kotevska) |
 
 <a href="#top"> &#10558; Back to top</a>
 
