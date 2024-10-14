@@ -180,6 +180,38 @@ Additionally, he develops reduced order models and applies statistical inference
 William holds a B.Sc. in Mechanical Engineering (2013), an M.S.E. in Mechanical Engineering (2015) and a Ph.D. in Nuclear & Radiation Engineering (2018) from the University of Texas at Austin.
 In his doctoral work, William developed a statistical downscaling method to capture the influence of fine-scale flow details down stream from spacer grids on the growth rate of crud in PWRs.
 
+---
+
+**Hyper-spectral image reconstruction and deployment on FPGA**
+
+<br>Time: 10/18/2024, 9:00 AM - 12:00 PM (ET)
+<br> Virtual (Microsoft Teams)
+<br>[Rama K. Vasudevan](https://www.ornl.gov/staff-profile/rama-k-vasudevan), [Narasinga Rao Miniskar](https://www.ornl.gov/staff-profile/narasinga-r-miniskar), [Anthony Cabrera](https://www.ornl.gov/staff-profile/anthony-m-cabrera), and [Singanallur V. Venkatakrishnan ](https://www.ornl.gov/staff-profile/singanallur-v-venkatakrishnan?type=publications&page=0)
+<br>Oak Ridge National Laboratory
+
+|      |      |      |      |
+| ---- | ---- | ---- | ---- |
+| [![RKV](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2024-02/2023-P13036.jpg?h=36c70e6f&itok=YaVMhvjK)](https://www.ornl.gov/staff-profile/rama-k-vasudevan)| [![NRM](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2020-11/Bio-image.png?h=451c3512&itok=_FhcYfFP)](https://www.ornl.gov/staff-profile/narasinga-r-miniskar) | [![AMC](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2020-11/amc-profile.png?h=7cfe8d7f&itok=BA92TDk1)](https://www.ornl.gov/staff-profile/anthony-m-cabrera) | [![VVS](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2018-P00805.jpg?itok=PpPANjM-)](https://www.ornl.gov/staff-profile/singanallur-v-venkatakrishnan?type=publications&page=0) |
+| Rama K. Vasudevan<br> Group Leader, Data NanoAnalytics (DNA) Group<br> Center for Nanophase Materials Sciences, ORNL | Narasinga Rao Miniskar<br> Senior R&D Staff<br>Computer Science and Mathematics Division, ORNL | Anthony Cabrera<br> Research Scientist<br> Computer Science and Mathematics Division, ORNL | S. V. Venkatakrishnan<br> R&D Staff<br> Electrification and Energy Infrastructures Division, ORNL |
+
+
+**Abstract**
+Hyper-spectral imaging is of key importance to rapidly determining the functional properties of materials when deployed from conventional microscopy techniques, but also sees significant applications in areas of optical (satellite) imagery and medical imaging technologies for e.g., determining changes to land use, functional changes to organs, etc. The sparse scanned image data from scanning probe microscopy instruments improves overall scanning speed but the original image need to be reconstructed from this sparse data, which is very challenging. In this tutorial, we walk through the hyperspectral image reconstruction traditional method (Biharmonic) and AI based methods (Deep Inverse), and provide an insight on deploying these algorithms on FPGA.
+
+Tentative agenda:
+- Introduction of ML-HSIR project by Rama Vasudevan (~15 m)
+- Hyperspectral image reconstruction algorithms by Venkatakrishnan Singanallur (~45m)
+- Biharmonic based image reconstruction and deployment on FPGA by Narasinga Rao Miniskar (~45m)
+- Deep Neural Network (Deep Inverse) based image construction and deployment on FPGA by Anthony Cabrera.  (~45m)
+
+**Bio**
+
+- Rama K. Vasudevan is a Group Leader for Data NanoAnalytics (DNA) Group at Center for Nanophase Materials Sciences, Oak Ridge National Laboratory. His research is focused on smart, autonomous synthesis and characterization tools driven by improvements in machine learning and tight integration between theory, automation and individual instruments. Specific sub-focus is on applications and development of scalable reinforcement learning for scanning probe microscopy, to optimize, manipulate and better characterize ferroic materials at the nanoscale, and upgrade scanning probe microscopy from a standard characterization tool to one capable of autonomous physics discovery by connecting algorithms, edge computing and theory in end-to-end automated workflows.
+- Narasinga Rao Miniskar is a Group Leader for Architecture and Performance Group at Computer Science and Mathematics Division, Oak Ridge National Laboratory. is current research is on heterogeneous computing, FPGA acceleration, Neuromorphic computing (Spiking Neural Network accelerators) and RISC-V based accelerators. Prior to this, he has worked in Samsung R&D Institute Bangalore (SRIB) for ~8 years on fixed point deep learning inference framework, Samsung Reconfigurable Processors development toolchain (compiler, cycle accurate simulators, etc.) and architecture exploration. He has received Ph.D. from K.U.Leuven and IMEC R&D (Belgium) in 2012.
+- Anthony Cabrera is a Research Scientist in the Architectures and Performance Group at Oak Ridge National Laboratory. His research currently focuses on node-level heterogeneity. In general, he is interested in compilers, computer hardware design, and quantum computing.
+- S. V. Venkatakrishnan received the Ph.D. degree from the School of Electrical and Computer Engineering at Purdue University in 2014. He is currently a R&D Staff member at the Multimodal Sensor Analytics group at Oak Ridge National Laboratory developing computational imaging algorithms in support of the lab’s efforts in ultrasound, X-ray, electron and neutron-based systems. His research interests include Computational Imaging, Inverse Problems and Machine Learning.  He was awarded a Presidential Scholar Award at the Microscopy and Microanalysis conference (2014), and the Eugene P. Wigner Distinguished Staff Fellowship at Oak Ridge National Lab (2016-2019). Dr. Venkatakrishnan is a senior member of the IEEE and has served as an Associate Editor of the IEEE Trans. On Computational Imaging (2018-2024).
+
+
 # Schedule 
 
 Please reach out if you are interested in presenting at a future event
