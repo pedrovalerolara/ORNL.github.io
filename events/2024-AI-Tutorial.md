@@ -182,7 +182,7 @@ In his doctoral work, William developed a statistical downscaling method to capt
 
 ---
 
-**Hyper-spectral image reconstruction and deployment on FPGA**
+**ML-Based Sparse Image Reconstruction On The Edge**
 
 <br>Time: 10/18/2024, 9:00 AM - 12:00 PM (ET)
 <br> Virtual (Microsoft Teams)
