@@ -224,7 +224,6 @@ Please reach out if you are interested in presenting at a future event
 | 07/26/2024 | VAE-NCDE: a generative time series model for probabilistic multivariate time series forecasting | [William L Gurecky](https://www.ornl.gov/staff-profile/william-l-gurecky) |
 | 10/18/2024 | ML-HSIR: Machine Learning based Hyperspectral Image Reconstruction the edge | [Narasinga Rao Miniskar](https://www.ornl.gov/staff-profile/narasinga-r-miniskar) |
 | 11/15/2024 | Intro to causal and explainable models in materials science | [Ayana Ghosh](https://www.ornl.gov/staff-profile/ayana-ghosh) |
-| 12/13/2024 | PPSD: Privacy preservation for streaming data | [Olivera Kotevska](https://www.ornl.gov/staff-profile/olivera-kotevska) |
 
 <a href="#top"> &#10558; Back to top</a>
 
@@ -239,7 +238,7 @@ td, th {
 
 |                |                |                |
 | -------------- | -------------- | -------------- |
-| [![Jong Youl Choi](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2021-02/jychoi2_0.png?h=273942d0&itok=wF9lLEZU)](https://www.ornl.gov/staff-profile/jong-youl-choi) | [![Chen Zhang](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2020-10/profile_0.png?h=c49a1206&itok=ntQg6NeU)](https://www.ornl.gov/staff-profile/chen-zhang) | [![Prasanna Balaprakash](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2023-03/BalaprakashProfile_0.jpg?h=17644140&itok=AYUSlKCG)](https://www.ornl.gov/staff-profile/prasanna-balaprakash) |
-| Jong Youl Choi <br> HPC Data Research Scientist <br> Computer Science and Mathematics Division <br> ONRL | Chen Zhang <br> Computational Scientist <br> Computer Science and Mathematics Division <br> ONRL | Prasanna Balaprakash<br> Director of AI Programs <br> Distinguished R&D Staff Scientist<br> Computing and Computational Sciences Directorate, ORNL |
+| [![Jong Youl Choi](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2021-02/jychoi2_0.png?h=273942d0&itok=wF9lLEZU)](https://www.ornl.gov/staff-profile/jong-youl-choi) | [![Yan Liu](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2019-04/liuy8.png?h=5114cd9b&itok=5Nt4keCd)](https://www.ornl.gov/staff-profile/yan-liu) | [![Prasanna Balaprakash](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2023-03/BalaprakashProfile_0.jpg?h=17644140&itok=AYUSlKCG)](https://www.ornl.gov/staff-profile/prasanna-balaprakash) |
+| Jong Youl Choi <br> HPC Data Research Scientist <br> Computer Science and Mathematics Division <br> ORNL | Yan Liu<br> Computational Scientist <br> Computational Sciences and Engineering Division <br> ORNL | Prasanna Balaprakash<br> Director of AI Programs <br> Distinguished R&D Staff Scientist<br> Computing and Computational Sciences Directorate, ORNL |
 
 <a href="#top"> &#10558; Back to top</a>
