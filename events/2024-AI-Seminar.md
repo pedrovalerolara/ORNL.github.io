@@ -307,6 +307,8 @@ Please reach out if you are interested in presenting at a future event
 | 06-20-2024 | Teams | Dr. Kutyniok | Ludwig Maximilian University of Munich | Reliability of Artificial Intelligence: Chances and Challenges |
 | 07-11-2024 | Teams | Dr. Xiaorui Liu | North Carolina State University | Empowering Graph Deep Learning at Scale |
 | 08-22-2024 | Teams | Dr. Sara Magliacane | University of Amsterdam | Causal representation learning in temporal settings |
+| 10-24-2024 | Teams | Dr. Graham West | Meharry Medical College School | Echoes of Athens: Bringing Advances in AI/ML to Ancient Greek Papyrology |
+| 11-07-2024 | Teams | Dr. Lav Varshney | University of Illinois Urbana-Champaign | Information Lattice Learning |
 
 <a href="#top"> &#10558; Back to top</a>
 
@@ -319,9 +321,9 @@ td, th {
 }
 </style>
 
-|                |                |                |
-| -------------- | -------------- | -------------- |
-| [![Jong Youl Choi](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2021-02/jychoi2_0.png?h=273942d0&itok=wF9lLEZU)](https://www.ornl.gov/staff-profile/jong-youl-choi) | [![Chen Zhang](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2020-10/profile_0.png?h=c49a1206&itok=ntQg6NeU)](https://www.ornl.gov/staff-profile/chen-zhang) | [![Prasanna Balaprakash](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2023-03/BalaprakashProfile_0.jpg?h=17644140&itok=AYUSlKCG)](https://www.ornl.gov/staff-profile/prasanna-balaprakash) |
-| Jong Youl Choi <br> HPC Data Research Scientist <br> Computer Science and Mathematics Division <br> ONRL | Chen Zhang <br> Computational Scientist <br> Computer Science and Mathematics Division <br> ONRL | Prasanna Balaprakash<br> Director of AI Programs <br> Distinguished R&D Staff Scientist<br> Computing and Computational Sciences Directorate, ORNL |
+|                |                |                |                |
+| -------------- | -------------- | -------------- | -------------- |
+| [![Jong Youl Choi](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2019-04/liuy8.png?h=5114cd9b&itok=5Nt4keCd)](https://www.ornl.gov/staff-profile/yan-liu) | [![Jong Youl Choi](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2021-02/jychoi2_0.png?h=273942d0&itok=wF9lLEZU)](https://www.ornl.gov/staff-profile/jong-youl-choi) | [![Chen Zhang](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2020-10/profile_0.png?h=c49a1206&itok=ntQg6NeU)](https://www.ornl.gov/staff-profile/chen-zhang) | [![Prasanna Balaprakash](https://www.ornl.gov/sites/default/files/styles/staff_profile_image_style/public/2023-03/BalaprakashProfile_0.jpg?h=17644140&itok=AYUSlKCG)](https://www.ornl.gov/staff-profile/prasanna-balaprakash) |
+| Yan Liu <br> Computational Scientist <br> Computational Sciences & Engineering Division <br> | Jong Youl Choi <br> HPC Data Research Scientist <br> Computer Science and Mathematics Division <br> ONRL | Chen Zhang <br> Computational Scientist <br> Computer Science and Mathematics Division <br> ONRL | Prasanna Balaprakash<br> Director of AI Programs <br> Distinguished R&D Staff Scientist<br> Computing and Computational Sciences Directorate, ORNL |
 
 <a href="#top"> &#10558; Back to top</a>
