@@ -26,7 +26,7 @@ Please reach out to the organizers if you would like to recommend a spearker or 
 
 <br>Location: Building 5700, Room (TBD)
 <br> Time: 11:00 a.m. - 12 p.m. ET, Thursday, 01/23/2025
-<br>[Bowen Jing](https://people.csail.mit.edu/bjing/)
+<br>Speaker: [Bowen Jing](https://people.csail.mit.edu/bjing/)
 
 **Abstract**
 
