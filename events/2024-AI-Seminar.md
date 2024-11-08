@@ -309,6 +309,7 @@ Please reach out if you are interested in presenting at a future event
 | 08-22-2024 | Teams | Dr. Sara Magliacane | University of Amsterdam | Causal representation learning in temporal settings |
 | 10-24-2024 | Teams | Dr. Graham West | Meharry Medical College School | Echoes of Athens: Bringing Advances in AI/ML to Ancient Greek Papyrology |
 | 11-07-2024 | Teams | Dr. Lav Varshney | University of Illinois Urbana-Champaign | Information Lattice Learning |
+| 12-05-2024 | Teams | Fernanda Foertter | Oak Ridge National Laboratory | AI Data Readiness |
 
 <a href="#top"> &#10558; Back to top</a>
 
