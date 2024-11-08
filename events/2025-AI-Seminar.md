@@ -54,9 +54,9 @@ Please reach out if you are interested in presenting at a future event
 
 |      Date      |    Location    |        Name            |          Affilication           |      Talk      |
 | :------------: | :------------: | :--------------------: | :-----------------------------: | :------------: |
-| 01-23-2025 | Teams | Bowen Jing | Massachusetts Institute of Technology | Generative Modeling of Molecular Dynamics Trajectories |
-| 02-06-2025 | Teams | Ayush Chopra | Massachusetts Institute of Technology | TBD |
-| 02-13-2025 | Teams | Xiaolei Huang| University of Memphis | TBD |
+| 01-23-2025 | TBD | Bowen Jing | Massachusetts Institute of Technology | Generative Modeling of Molecular Dynamics Trajectories |
+| 02-06-2025 | On Site | Ayush Chopra | Massachusetts Institute of Technology | TBD |
+| 02-13-2025 | TBD | Xiaolei Huang| University of Memphis | TBD |
 
 <a href="#top"> &#10558; Back to top</a>
 
