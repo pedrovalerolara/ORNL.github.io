@@ -26,7 +26,12 @@ Please reach out to the organizers if you would like to recommend a spearker or 
 
 <br>Location: Building 5700, Room (TBD)
 <br> Time: 11:00 a.m. - 12 p.m. ET, Thursday, 01/09/2025
-<br>Speaker: [Fernanda Foertter](https://www.ornl.gov/staff-profile/fernanda-s-foertter)
+<br>Speaker: [Fernanda Foertter](https://impact.ornl.gov/en/persons/fernanda-foertter)
+
+|         |
+| ------- |
+| [![FF](https://foertter.com/wp-content/uploads/2023/01/22-1116oraclenvidia42921-edited.jpg)](https://impact.ornl.gov/en/persons/fernanda-foertter)|
+| Fernanda Foertter <br>Senior HPC Engineer <br>Computational Sciences and Engineering Division, ORNL |
 
 **Abstract**
 
