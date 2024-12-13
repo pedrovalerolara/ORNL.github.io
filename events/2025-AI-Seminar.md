@@ -22,27 +22,28 @@ Please reach out to the organizers if you would like to recommend a spearker or 
 
 # Next Presentation
 
-**Title: Generative Modeling of Molecular Dynamics Trajectories (tentative)**
+**Title: Problems with preparing data for AI workloads **
 
 <br>Location: Building 5700, Room (TBD)
-<br> Time: 11:00 a.m. - 12 p.m. ET, Thursday, 01/23/2025
-<br>Speaker: [Bowen Jing](https://people.csail.mit.edu/bjing/)
+<br> Time: 11:00 a.m. - 12 p.m. ET, Thursday, 01/09/2025
+<br>Speaker: [Fernanda Foertter](https://impact.ornl.gov/en/persons/fernanda-foertter)
+
+|         |
+| ------- |
+| [![FF](https://foertter.com/wp-content/uploads/2023/01/22-1116oraclenvidia42921-edited.jpg)](https://impact.ornl.gov/en/persons/fernanda-foertter)|
+| Fernanda Foertter <br>Senior HPC Engineer <br>Computational Sciences and Engineering Division, ORNL |
 
 **Abstract**
 
-TBD
+Preparing data for AI workloads is to put it mildly, awful. Foundational models are best with huge amounts of data but depending on the domain this task can very dramatically in difficulty. This talk will explore the complexities of data preparation for AI and will discuss common tools and methods used from several people surveyed and interviewed for this talk. This talk will also include a mini-workshop where all attendees can share preferred methods and tools with the goal of building community at ORNL.
 
 **Bio**
 
-TBD
+Fernanda has been in the intersection of scientific computing data wraggling for 15 years. She has a background in physics and molecular dynamics but later transitioned into genomics and healthcare data. Fernanda was at ORNL previously and worked on CORAL and ECP projects and led the training efforts to migrate applications from CPU to GPU on Titan and Summit. After 6 years in industry Fernanda recently returned to ORNL to continue contributing to the mission of the lab and is currently a member of the Scalable Biomedical Simulation group working on MOSSAIC. She has a penchant for building communities of practice and hopes to build one that helps improve how we do data engineering.
 
 <a href="#top"> &#10558; Back to top</a>
 
 ---
-
-# Upcoming Presentations
-
-# Past Presentation
 
 # Schedule
 
@@ -54,9 +55,15 @@ Please reach out if you are interested in presenting at a future event
 
 |      Date      |    Location    |        Name            |          Affilication           |      Talk      |
 | :------------: | :------------: | :--------------------: | :-----------------------------: | :------------: |
+| 01-09-2025 | Virtual | Fernanda Foertter | ORNL | Problems with preparing data for AI workloads |
 | 01-23-2025 | TBD | Bowen Jing | Massachusetts Institute of Technology | Generative Modeling of Molecular Dynamics Trajectories |
-| 02-06-2025 | On Site | Ayush Chopra | Massachusetts Institute of Technology | TBD |
-| 02-13-2025 | TBD | Xiaolei Huang| University of Memphis | TBD |
+| 02-06-2025 | TBD | Ayush Chopra | Massachusetts Institute of Technology | TBD |
+| 02-13-2025 | Virtual | Xiaolei Huang| University of Memphis | TBD |
+| 02-27-2025 | Virtual | Dong Li | University of California, Merced | TBD |
+
+<a href="#top"> &#10558; Back to top</a>
+
+# Past Presentations
 
 <a href="#top"> &#10558; Back to top</a>
 
