@@ -30,7 +30,7 @@ Please reach out to the organizers if you would like to recommend a spearker or 
 
 |         |
 | ------- |
-| [![FF](https://foertter.com/wp-content/uploads/2023/01/22-1116oraclenvidia42921-edited.jpg)](https://impact.ornl.gov/en/persons/fernanda-foertter)|
+| <img src="https://foertter.com/wp-content/uploads/2023/01/22-1116oraclenvidia42921-edited.jpg" width="300" /> |
 | Fernanda Foertter <br>Senior HPC Engineer <br>Computational Sciences and Engineering Division, ORNL |
 
 **Abstract**
