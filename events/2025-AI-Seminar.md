@@ -22,19 +22,24 @@ Please reach out to the organizers if you would like to recommend a spearker or 
 
 # Next Presentation
 
-**Denoising Generative Modeling for Molecular Structures and Dynamics**
+**Towards Trustworthy Natural Language Processing for Sciences**
 
-<br>Location: Building 5700, room TBD
-<br> Time: 11:00 a.m. - 12 p.m. ET, Thursday, 01/23/2025
-<br>Speaker: [Bowen Jing](https://people.csail.mit.edu/bjing/), Electrical Engineering and Computer Science, MIT
+<br>Location: Virtual on MS Teams
+<br> Time: 11:00 a.m. - 12 p.m. ET, Thursday, 02/13/2025
+<br>Speaker: [Xiaolei Huang](https://www.memphis.edu/cs/people/faculty_pages/xiaolei-huang.php)
+
+|         |
+| ------- |
+| <img src="https://www.memphis.edu/cs/images/people/xhuang7-big.jpg" width="300" /> |
+| Xiaolei Huang <br>Assistant Professor <br>Department of Computer Science, Universit of Memphis |
 
 **Abstract**
 
-The three-dimensional structure and dynamics of molecules yields crucial insights into their chemical properties and biological functions. In this talk, we will discuss how denoising generative modeling has provided a novel and powerful paradigm for the prediction and sampling of molecular structures and dynamics.  Our work is often guided by considerations of physical symmetry and constrained degrees of freedom, requiring extensions of well-known methods to non-Euclidean spaces which best describe molecular flexibility. We will first show how diffusion over torsional coordinates lays the groundwork for modeling small, druglike molecules. Second, we combine this framework with rigid body motions to learn molecular docking to protein structures. Third, we address conformational sampling of proteins and successfully emulate ensembles from molecular dynamics at reduced computational cost. Finally, we discuss video-like modeling of whole molecular dynamics trajectories, enabling multipurpose generative models trained on simulated data.
+Natural Language Processing (NLP) has significantly enhanced decision-making systems in various fields, including health and psychology. Despite its advancements, challenges such as robustness and algorithmic bias hinder its trustworthiness. In this talk, I will present our recent work from the unique perspective––metadata, the data of data––to promote model trustworthiness across diverse applications. The talk will cover three major research thrusts, including data imbalance, temporality, and human demography, which have resulted in multiple competitive venues (e.g., the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL)) and a Best Paper Award. Finally, the talk will present strong potentials of NLP for diverse scientific disciplines — NLP4Sciences–– through the emerging needs in large language models (LLMs).
 
 **Bio**
 
-Bio: Bowen Jing is a 4th year Ph.D. candidate in Electrical Engineering and Computer Science at MIT, co-advised by Tommi Jaakkola and Bonnie Berger. He works on deep learning for structural biology and drug discovery, with a focus on generative models and molecular simulation. He is also a DOE Computational Science Graduate Fellow and completed a practicum in the X Computational Physics Division at at Los Alamos National Laboratory. 
+Dr. Xiaolei Huang is an Assistant Professor of Computer Science at the University of Memphis, and he graduated from University of Colorado Boulder with a PhD in Information Science. His research mainly focuses on Trustworthy Natural Language Processing (NLP) with applications in NLP for Sciences, such as health informatics. He is actively contributing to the regional development in Tennessee with a focus on GPU cyberinfrastructure across disciplines, such as the first regional GPU cluster, iTiger GPU. His research leads to multiple top conference venues and medical journals, which has been featured by regional and national media, such as Memphis Business Journal and the Hill. The research and community contribution lead to $1.4M NSF (National Science Foundation) grant.
 
 <a href="#top"> &#10558; Back to top</a>
 
@@ -52,13 +57,29 @@ Please reach out if you are interested in presenting at a future event
 | :------------: | :------------: | :--------------------: | :-----------------------------: | :------------: |
 | 01-09-2025 | Virtual | Fernanda Foertter | ORNL | Problems with preparing data for AI workloads |
 | 01-23-2025 | On Site | Bowen Jing | Massachusetts Institute of Technology | Denoising Generative Modeling for Molecular Structures and Dynamics |
-| 02-06-2025 | On Site | Ayush Chopra | Massachusetts Institute of Technology | TBD |
-| 02-13-2025 | Virtual | Xiaolei Huang| University of Memphis | TBD |
+| 02-13-2025 | Virtual | Xiaolei Huang| University of Memphis | Towards Trustworthy Natural Language Processing for Sciences |
 | 02-27-2025 | Virtual | Dong Li | University of California, Merced | TBD |
+| TBD | On Site | Ayush Chopra | Massachusetts Institute of Technology | TBD |
 
 <a href="#top"> &#10558; Back to top</a>
 
 # Past Presentations
+
+---
+
+**Denoising Generative Modeling for Molecular Structures and Dynamics**
+
+<br>Location: Building 5700, room F234
+<br> Time: 11:00 a.m. - 12 p.m. ET, Thursday, 01/23/2025
+<br>Speaker: [Bowen Jing](https://people.csail.mit.edu/bjing/), Electrical Engineering and Computer Science, MIT
+
+**Abstract**
+
+The three-dimensional structure and dynamics of molecules yields crucial insights into their chemical properties and biological functions. In this talk, we will discuss how denoising generative modeling has provided a novel and powerful paradigm for the prediction and sampling of molecular structures and dynamics.  Our work is often guided by considerations of physical symmetry and constrained degrees of freedom, requiring extensions of well-known methods to non-Euclidean spaces which best describe molecular flexibility. We will first show how diffusion over torsional coordinates lays the groundwork for modeling small, druglike molecules. Second, we combine this framework with rigid body motions to learn molecular docking to protein structures. Third, we address conformational sampling of proteins and successfully emulate ensembles from molecular dynamics at reduced computational cost. Finally, we discuss video-like modeling of whole molecular dynamics trajectories, enabling multipurpose generative models trained on simulated data.
+
+**Bio**
+
+Bio: Bowen Jing is a 4th year Ph.D. candidate in Electrical Engineering and Computer Science at MIT, co-advised by Tommi Jaakkola and Bonnie Berger. He works on deep learning for structural biology and drug discovery, with a focus on generative models and molecular simulation. He is also a DOE Computational Science Graduate Fellow and completed a practicum in the X Computational Physics Division at at Los Alamos National Laboratory. 
 
 ---
 
