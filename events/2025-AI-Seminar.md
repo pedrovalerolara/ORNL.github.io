@@ -22,24 +22,7 @@ Please reach out to the organizers if you would like to recommend a spearker or 
 
 # Next Presentation
 
-**Towards Trustworthy Natural Language Processing for Sciences**
-
-<br>Location: Virtual on MS Teams
-<br> Time: 11:00 a.m. - 12 p.m. ET, Thursday, 02/13/2025
-<br>Speaker: [Xiaolei Huang](https://www.memphis.edu/cs/people/faculty_pages/xiaolei-huang.php)
-
-|         |
-| ------- |
-| <img src="https://www.memphis.edu/cs/images/people/xhuang7-big.jpg" width="300" /> |
-| Xiaolei Huang <br>Assistant Professor <br>Department of Computer Science, Universit of Memphis |
-
-**Abstract**
-
-Natural Language Processing (NLP) has significantly enhanced decision-making systems in various fields, including health and psychology. Despite its advancements, challenges such as robustness and algorithmic bias hinder its trustworthiness. In this talk, I will present our recent work from the unique perspective––metadata, the data of data––to promote model trustworthiness across diverse applications. The talk will cover three major research thrusts, including data imbalance, temporality, and human demography, which have resulted in multiple competitive venues (e.g., the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL)) and a Best Paper Award. Finally, the talk will present strong potentials of NLP for diverse scientific disciplines — NLP4Sciences–– through the emerging needs in large language models (LLMs).
-
-**Bio**
-
-Dr. Xiaolei Huang is an Assistant Professor of Computer Science at the University of Memphis, and he graduated from University of Colorado Boulder with a PhD in Information Science. His research mainly focuses on Trustworthy Natural Language Processing (NLP) with applications in NLP for Sciences, such as health informatics. He is actively contributing to the regional development in Tennessee with a focus on GPU cyberinfrastructure across disciplines, such as the first regional GPU cluster, iTiger GPU. His research leads to multiple top conference venues and medical journals, which has been featured by regional and national media, such as Memphis Business Journal and the Hill. The research and community contribution lead to $1.4M NSF (National Science Foundation) grant.
+The talk on Feb 13, 2025 has been cancelled due to speaker's availability.
 
 <a href="#top"> &#10558; Back to top</a>
 
@@ -57,15 +40,15 @@ Please reach out if you are interested in presenting at a future event
 | :------------: | :------------: | :--------------------: | :-----------------------------: | :------------: |
 | 01-09-2025 | Virtual | Fernanda Foertter | ORNL | Problems with preparing data for AI workloads |
 | 01-23-2025 | On Site | Bowen Jing | Massachusetts Institute of Technology | Denoising Generative Modeling for Molecular Structures and Dynamics |
-| 02-13-2025 | Virtual | Xiaolei Huang| University of Memphis | Towards Trustworthy Natural Language Processing for Sciences |
+| ~~02-13-2025~~ | ~~Virtual~~ | ~~Xiaolei Huang~~ | ~~University of Memphis~~ | ~~Towards Trustworthy Natural Language Processing for Sciences~~ |
 | 02-27-2025 | Virtual | Dong Li | University of California, Merced | TBD |
 | TBD | On Site | Ayush Chopra | Massachusetts Institute of Technology | TBD |
 
 <a href="#top"> &#10558; Back to top</a>
 
-# Past Presentations
-
 ---
+
+# Past Presentations
 
 **Denoising Generative Modeling for Molecular Structures and Dynamics**
 
@@ -104,6 +87,8 @@ Fernanda has been in the intersection of scientific computing data wraggling for
 
 
 <a href="#top"> &#10558; Back to top</a>
+
+---
 
 # Organization
 
