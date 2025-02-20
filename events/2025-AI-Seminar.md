@@ -22,24 +22,24 @@ Please reach out to the organizers if you would like to recommend a spearker or 
 
 # Next Presentation
 
-**Towards Trustworthy Natural Language Processing for Sciences**
+**Learned Tensor-Offloading: GPU Memory-Efficient Execution Paradigm for Large Deep-Learning Models**
 
 <br>Location: Virtual on MS Teams
-<br> Time: 11:00 a.m. - 12 p.m. ET, Thursday, 02/13/2025
-<br>Speaker: [Xiaolei Huang](https://www.memphis.edu/cs/people/faculty_pages/xiaolei-huang.php)
+<br> Time: 11:00 a.m. - 12 p.m. ET, Thursday, 02/27/2025
+<br>Speaker: [Dong Li](https://faculty.ucmerced.edu/dong-li/)
 
 |         |
 | ------- |
-| <img src="https://www.memphis.edu/cs/images/people/xhuang7-big.jpg" width="300" /> |
-| Xiaolei Huang <br>Assistant Professor <br>Department of Computer Science, Universit of Memphis |
+| <img src="https://eecs.ucmerced.edu/sites/eecs.ucmerced.edu/files/li_dong_150223-3_0.jpg" /> |
+| Dong Li <br>Assistant Professor <br>Department of Computer Science, Universit of Memphis |
 
 **Abstract**
 
-Natural Language Processing (NLP) has significantly enhanced decision-making systems in various fields, including health and psychology. Despite its advancements, challenges such as robustness and algorithmic bias hinder its trustworthiness. In this talk, I will present our recent work from the unique perspective––metadata, the data of data––to promote model trustworthiness across diverse applications. The talk will cover three major research thrusts, including data imbalance, temporality, and human demography, which have resulted in multiple competitive venues (e.g., the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL)) and a Best Paper Award. Finally, the talk will present strong potentials of NLP for diverse scientific disciplines — NLP4Sciences–– through the emerging needs in large language models (LLMs).
+Training and deploying large deep-learning (DL) models face a memory capacity problem because of increasing model size or limited GPU memory capacity. Tiered memory architectures based on heterogeneous GPU/CPU memories provide a cost-effective solution to enable large DL models on GPU with limited memory. However, using tiered memory faces challenges on tensor management because of the dynamic structure of DL models and irregular memory accesses patterns in the DL workloads. In this talk, we introduce a learned approach (using a neural network or NN) to increase predictability of tensor accesses and facilitate memory management on tiered memory. To make the learned approach feasible, we address a series of challenges for NN feature representation to capture DL memory access patterns, and NN overhead control without sacrificing the effectiveness of NN guidance. Using the learned approach, we largely outperform UVM and tensor materialization (two approaches to enable large DL models on GPU) by 3× and 2.1× respectively in terms of maximum batch size. In the scenarios of industrial-scale deep-learning recommendation model (DLRM), our approach effectively reduces end-to-end DLRM inference time by up to 43%, compared to LRU caching in production.
 
 **Bio**
 
-Dr. Xiaolei Huang is an Assistant Professor of Computer Science at the University of Memphis, and he graduated from University of Colorado Boulder with a PhD in Information Science. His research mainly focuses on Trustworthy Natural Language Processing (NLP) with applications in NLP for Sciences, such as health informatics. He is actively contributing to the regional development in Tennessee with a focus on GPU cyberinfrastructure across disciplines, such as the first regional GPU cluster, iTiger GPU. His research leads to multiple top conference venues and medical journals, which has been featured by regional and national media, such as Memphis Business Journal and the Hill. The research and community contribution lead to $1.4M NSF (National Science Foundation) grant.
+Dong Li is an associate professor at EECS, University of California, Merced. Previously, he was a research scientist at the Oak Ridge National Laboratory (ORNL), studying computer architecture and programming models for next generation supercomputer systems. Dong earned his PhD in computer science from Virginia Tech. His research focuses on high performance computing (HPC), and maintains a strong relevance to computer systems. The core theme of his research is to study how to enable scalable and efficient execution of enterprise and scientific applications on increasingly complex large-scale parallel systems. Dong received an ORNL/CSMD Distinguished Contributor Award in 2013, a CAREER Award from the National Science Foundation in 2016, Facebook faculty research award in 2021, Oracle Research Award in 2022, Western Digital Research Award in 2022. His paper in SC'14 was in the best paper final list. His paper in ASPLOS'21 won the distinguished artifact award. He was also the lead PI for the NVIDIA CUDA Research Center at UC Merced. He is an associate editor for IEEE Transactions on Parallel and Distributed Systems (TPDS).
 
 <a href="#top"> &#10558; Back to top</a>
 
@@ -57,9 +57,9 @@ Please reach out if you are interested in presenting at a future event
 | :------------: | :------------: | :--------------------: | :-----------------------------: | :------------: |
 | 01-09-2025 | Virtual | Fernanda Foertter | ORNL | Problems with preparing data for AI workloads |
 | 01-23-2025 | On Site | Bowen Jing | Massachusetts Institute of Technology | Denoising Generative Modeling for Molecular Structures and Dynamics |
-| 02-13-2025 | Virtual | Xiaolei Huang| University of Memphis | Towards Trustworthy Natural Language Processing for Sciences |
 | 02-27-2025 | Virtual | Dong Li | University of California, Merced | TBD |
 | TBD | On Site | Ayush Chopra | Massachusetts Institute of Technology | TBD |
+| TBD | Virtual | Xiaolei Huang| University of Memphis | Towards Trustworthy Natural Language Processing for Sciences |
 
 <a href="#top"> &#10558; Back to top</a>
 
