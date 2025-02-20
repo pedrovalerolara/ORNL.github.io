@@ -31,7 +31,7 @@ Please reach out to the organizers if you would like to recommend a spearker or 
 |         |
 | ------- |
 | <img src="https://eecs.ucmerced.edu/sites/eecs.ucmerced.edu/files/li_dong_150223-3_0.jpg" /> |
-| Dong Li <br>Associate Professor <br>Department of Electrical Engineering and Computer Science, University of California, Merced |
+| Dong Li <br>Associate Professor <br>Department of Electrical Engineering and Computer Science (EECS), University of California, Merced |
 
 **Abstract**
 
