@@ -22,6 +22,70 @@ Please reach out to the organizers if you would like to recommend a spearker or 
 
 # Next Presentation
 
+**Efficiency and Accuracy Challenges in AI-Driven Atomistic Simulation**
+
+<br>Location: Virtual on MS Teams
+<br> Time: 11:00 a.m. - 12 p.m. ET, Thursday, 05/15/2025
+<br>Speaker: [Justin S. Smith](https://developer.nvidia.com/blog/author/jusmith/)
+
+|         |
+| ------- |
+| <img src="https://developer-blogs.nvidia.com/wp-content/uploads/2024/11/cropped-justin-smith-540x540.jpg" width="270" /> |
+| Justin S. Smith, Ph.D.<br>Senior Developer Relations Manager <br>NVIDIA |
+
+**Abstract**
+
+This presentation delves into advancements and challenges in atomistic simulation for chemistry and materials science, focusing on three key themes. First, we explore batching techniques to improve simulation efficiency for high-throughput atomistic modeling. Second, we discuss issues in scaling Graph Neural Network (GNN)-based atomistic machine learning models for large-scale simulations, examining limitations and potential solutions. Third, we address the impact of training data selection and targets on improving model accuracy. By covering these topics, this presentation aims to provide an overview of our recent publications and the status of software tools development for AI-driven atomistic simulation, offering valuable insights and future directions for researchers and practitioners.
+
+**Speaker Bio**
+
+Dr. Justin S. Smith, Ph.D. in computational chemistry from the University of Florida, is known for his pioneering work in the development of machine learning interatomic potentials (MLIPs). As a primary developer of the ANI class of MLIPs, Justin has significantly advanced the field of computational chemistry by creating models that accurately predict molecular properties and dynamics. In addition to his work on the ANI class of models, Justin contributed to the development of the AIMNet and HIP-NN family of models. His efforts in these areas have focused on improving the accuracy and efficiency of MLIPs, enabling more precise simulations of molecular systems. Justin has also been instrumental in advancing active learning techniques for robust dataset generation, which are crucial for training accurate and transferable MLIPs. In recent years, Justin has been managing NVIDIA's strategy in the AI for chemistry and materials science domain. In this role, he has been responsible for overseeing partnerships, prioritization, development and deployment relating to AI-driven tools and technologies that are transforming molecular and materials simulation across domains.
+
+<a href="#top"> &#10558; Back to top</a>
+
+---
+
+# Schedule
+
+<!---
+The table should be update routein to reflect the upcoming events, and the past events should be at the bottom of the table.
+-->
+
+Please reach out if you are interested in presenting at a future event
+
+|      Date      |    Location    |        Name            |          Affilication           |      Talk      |
+| :------------: | :------------: | :--------------------: | :-----------------------------: | :------------: |
+| 01-09-2025 | Virtual | Fernanda Foertter | ORNL | Problems with preparing data for AI workloads |
+| 01-23-2025 | On Site | Bowen Jing | Massachusetts Institute of Technology | Denoising Generative Modeling for Molecular Structures and Dynamics |
+| 02-27-2025 | Virtual | Dong Li | University of California, Merced | Learned Tensor-Offloading: GPU Memory-Efficient Execution Paradigm for Large Deep-Learning Models |
+| 04-03-2025 | On Site | Ayush Chopra | Massachusetts Institute of Technology | What can we learn from a billion agents? |
+| 05-15-2025 | Virtual | Justin Smith| NVIDIA | Efficiency and Accuracy Challenges in AI-Driven Atomistic Simulation |
+| 06-26-2025 | On Site | Christopher Sutton | University of South Carolina | TBD |
+
+<a href="#top"> &#10558; Back to top</a>
+
+# Past Presentations
+
+**What can we learn from a billion agents?**
+
+<br>Location:Building 5700, Room F234
+<br> Time: 10:00 a.m. - 11 p.m. ET, Thursday, 04/03/2025
+<br>Speaker: Ayush Chopra
+
+**Abstract**
+
+From pandemic response to supply chain resilience, today's critical challenges emerge from the complex interactions of millions of autonomous agents.  Traditional agent-based simulations struggle to scale beyond small populations while preserving rich agent behaviors and interaction patterns, making it difficult to model these societal-scale phenomena.  This talk introduces Large Population Models (LPMs), a novel methodology that enables high-performance, privacy-preserving modeling of massive agent populations.
+ 
+LPMs enable societal-scale modeling through three key innovations.  First, they scale to millions of synthetic agents while preserving rich agent behaviors—from simple heuristics to language model-powered interactions—achieving unprecedented efficiency: simulating 8M agents in 5 minutes versus 50 hours in traditional approaches.  Second, LPMs maintain end-to-end differentiability of the simulation dynamics, enabling use of gradients to automatically calibrate against heterogeneous real-world data sources, compose with neural networks and perform rapid sensitivity analysis without repeated simulation—accelerating model tuning by 8300×.  Third, LPMs bridge simulation and reality through secure multi-party computation, enabling real-world agents to participate in decentralized simulations while preserving the privacy of their states and interactions - effectively “backpropagating through reality”.
+ 
+These capabilities are unified in AgentTorch, our open-source framework for composable agent simulation at scale.  We demonstrate AgentTorch's impact through high-stakes applications: optimizing vaccine distribution across populations of 5+ million, safeguarding billion-dollar food supply chains, and modeling disease spread in dense urban environments of 8+ million residents.  As we scale towards a world with billions of agents, LPMs establish a foundation for next-generation high-performance computing platforms that can help address national-scale challenges while preserving data privacy and security.
+
+**Bio**
+
+Ayush Chopra is a PhD student at Massachusetts Institute of Technology (MIT), where he lead research on Large Population Models (lpm.media.mit.edu) under Prof. Ramesh Raskar's supervision.  His work bridges theoretical advances in multi-agent artificial intelligence (AI) with real-world impact - reaching over 20 million people through deployments across multiple countries and garnering coverage in global press.  He has published over 50 papers in leading conferences and journals, including the international conference on Autonomous Agents and Multiagent Systems (AAMAS), the conference on Computer Vision and Pattern Recognition, Knowledge Discovery in Databases, British Medical Journal; earning best paper awards and contributing to 25 patents.  Ayush’s research experience spans academic and industry labs, including Mayo Clinic and JP Morgan AI Research.  Prior to MIT, he was a scientist at Adobe where he received the Outstanding Young Engineer Award for his work on collaborative machine learning. Ayush has co-organized workshops and tutorials on multi-agent systems at the International Conference on Learning Representations (2021, 2023) and AAMAS (2024).  He earned his MS from MIT and BE from Delhi College of Engineering.
+
+---
+
 **Learned Tensor-Offloading: GPU Memory-Efficient Execution Paradigm for Large Deep-Learning Models**
 
 <br>Location: Virtual on MS Teams
@@ -41,31 +105,7 @@ Training and deploying large deep-learning (DL) models face a memory capacity pr
 
 Dong Li is an associate professor at EECS, University of California, Merced. Previously, he was a research scientist at the Oak Ridge National Laboratory (ORNL), studying computer architecture and programming models for next generation supercomputer systems. Dong earned his PhD in computer science from Virginia Tech. His research focuses on high performance computing (HPC), and maintains a strong relevance to computer systems. The core theme of his research is to study how to enable scalable and efficient execution of enterprise and scientific applications on increasingly complex large-scale parallel systems. Dong received an ORNL/CSMD Distinguished Contributor Award in 2013, a CAREER Award from the National Science Foundation in 2016, Facebook faculty research award in 2021, Oracle Research Award in 2022, Western Digital Research Award in 2022. His paper in SC'14 was in the best paper final list. His paper in ASPLOS'21 won the distinguished artifact award. He was also the lead PI for the NVIDIA CUDA Research Center at UC Merced. He is an associate editor for IEEE Transactions on Parallel and Distributed Systems (TPDS).
 
-<a href="#top"> &#10558; Back to top</a>
-
 ---
-
-# Schedule
-
-<!---
-The table should be update routein to reflect the upcoming events, and the past events should be at the bottom of the table.
--->
-
-Please reach out if you are interested in presenting at a future event
-
-|      Date      |    Location    |        Name            |          Affilication           |      Talk      |
-| :------------: | :------------: | :--------------------: | :-----------------------------: | :------------: |
-| 01-09-2025 | Virtual | Fernanda Foertter | ORNL | Problems with preparing data for AI workloads |
-| 01-23-2025 | On Site | Bowen Jing | Massachusetts Institute of Technology | Denoising Generative Modeling for Molecular Structures and Dynamics |
-| 02-27-2025 | Virtual | Dong Li | University of California, Merced | TBD |
-| TBD | On Site | Ayush Chopra | Massachusetts Institute of Technology | TBD |
-| TBD | Virtual | Xiaolei Huang| University of Memphis | Towards Trustworthy Natural Language Processing for Sciences |
-
-<a href="#top"> &#10558; Back to top</a>
-
----
-
-# Past Presentations
 
 **Denoising Generative Modeling for Molecular Structures and Dynamics**
 
@@ -104,8 +144,6 @@ Fernanda has been in the intersection of scientific computing data wraggling for
 
 
 <a href="#top"> &#10558; Back to top</a>
-
----
 
 # Organization
 
