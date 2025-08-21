@@ -78,8 +78,9 @@ Please reach out if you are interested in presenting at a future event
 | 04-03-2025 | On Site | Ayush Chopra | Massachusetts Institute of Technology | What can we learn from a billion agents? |
 | 05-15-2025 | Virtual | Justin Smith| NVIDIA | Efficiency and Accuracy Challenges in AI-Driven Atomistic Simulation |
 | 06-26-2025 | On Site | Christopher Sutton | University of South Carolina | Accelerating Materials Discovery with AI |
-| 08-28-2025 | Virtual | Nando Fioretto | University of Virginia | TBD |
-| 09-25-2025 | On Site | Yongqiang Cheng | ORNL | TBD |
+| 09-18-2025 | On Site | Yongqiang Cheng | ORNL | AI for science: GNN and fine-tuning of foundation models |
+| 09-25-2025 | Virtual | Nando Fioretto | University of Virginia | Constraint-Aware Diffusion Models for Reliable Scientific Design |
+| 10-02-2025 | On Site | Dayton Kizzire| ORNL | XsymNet, a framework for coupling deep learning and crystallographic group-theoretical methods |
 
 <a href="#top"> &#10558; Back to top</a>
 
