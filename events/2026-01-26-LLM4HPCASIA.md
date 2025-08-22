@@ -5,7 +5,7 @@ description: The 1st International Workshop on Foundational Large Language Model
              to be held in conjunction with SCA/HPC Asia 2026<br/>
              January 26th-29th, 2026<br />
              Osaka, Japan<br />
-permalink: /events/llm4hpcasia2025/
+permalink: /events/llm4hpcasia2026/
 tags: events
 header-includes:
     - \usepackage{wallpaper}
