@@ -77,10 +77,9 @@ aspects of LLM for HPC targets including (but not limited to):
 
 <h2>Important Dates</h2>
 <p>
-<strong>TBD</strong><br>
+<strong>Paper submission deadline :</strong> Oct 20, 2025<br>
+<strong>Notification of acceptance :</strong> Nov 26, 2025<br>
 <!--
-<strong>Paper submission deadline :</strong> March 14 (FIRM DEADLINE), 2025<br>
-<strong>Notification of acceptance :</strong> March 31, 2025<br>
 <strong>Camera-ready papers due :</strong> May 16, 2025<br>
 <strong>Workshop day:</strong> June 13, 2025<br>
 -->
